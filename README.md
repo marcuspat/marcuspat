@@ -1,6 +1,7 @@
 # Hi, I'm Marcus!
 
-![Profile Photo]![image](https://github.com/user-attachments/assets/4b927173-6ada-44f4-a05b-b9d7aff8486d)
+<img src="https://github.com/user-attachments/assets/b9be574d-6346-4756-b40f-bfbe4e2ff3d4" alt="Agentic Engineering" width="500"/>
+
 
 
 ## 🤖 Agentic Engineer • Platform Engineering + AI-Powered Development
