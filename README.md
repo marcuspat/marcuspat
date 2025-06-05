@@ -134,9 +134,9 @@ Collection of DevOps tools and practices evolved for the age of AI-assisted deve
 
 ## 📫 Let's Build the Future Together
 
-- 📧 **Email**: your.email@domain.com
+- 📧 **Email**: marcus.patman@gmail.com
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/marcuspatman/)
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- 🐦 **Twitter**: [@yourusername](https://twitter.com/marcuspat)
 - 💬 **Discord**: Available for discussions on AI engineering
 
 ### 🤝 **I'm Interested In:**
