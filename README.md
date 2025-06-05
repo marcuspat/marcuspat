@@ -1,4 +1,4 @@
-# Hi, I'm Marcus!
+# Hi, I'm Marcus! Drop on in and check out what I have been up to lately!
 
 <img src="https://github.com/user-attachments/assets/b9be574d-6346-4756-b40f-bfbe4e2ff3d4" alt="Agentic Engineering" width="500"/>
 
