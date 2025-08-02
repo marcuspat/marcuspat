@@ -65,17 +65,23 @@ I combine **infrastructure reliability** with **AI adaptability** to create:
 
 ## 🏆 Featured Projects
 
-### 🤖 **[Agentic Engineering](https://github.com/yourusername/agentic-engineering)**
-My exploration into AI-driven development methodologies. Demonstrates SPARC workflow implementation and human-AI collaborative patterns.
+### 🔐 [secret-scan](https://github.com/marcuspat/secret-scan)
+Regex-based scanner for detecting AWS credentials, GitHub tokens, and API secrets in codebases—built for security and compliance automation.
 
-### ⚡ **[AI Workflow Automation](https://github.com/yourusername/ai-workflow-automation)**
-Platform for orchestrating complex business processes using AI agents. Integrates 80+ services with intelligent decision-making capabilities.
+### ⚙️ [cargo-forge](https://github.com/marcuspat/cargo-forge)
+A powerful, interactive Rust project generator with intelligent templates and enterprise-grade scaffolding—built for modern Rust workflows.
 
-### 🏗️ **[Intelligent Infrastructure](https://github.com/yourusername/intelligent-infrastructure)**
-Self-managing cloud infrastructure that adapts to usage patterns and optimizes costs through AI-driven insights.
+### 📡 [k8s-netinspect](https://github.com/marcuspat/k8s-netinspect)
+A minimal Kubernetes network inspection tool designed for diagnosing CNI issues and pod connectivity problems—perfect for platform engineers.
 
-### 🔧 **[Platform Engineering Toolkit](https://github.com/yourusername/platform-toolkit)**
-Collection of DevOps tools and practices evolved for the age of AI-assisted development.
+### 🔒 [cargocrypt](https://github.com/marcuspat/cargocrypt)
+A secure Rust-based encryption and data-handling utility focused on safety, speed, and simplicity in agentic workflows.
+
+### 🧠 [netrain](https://github.com/marcuspat/netrain)
+A Matrix-style real-time network packet monitor with live threat detection and visual telemetry—designed for AI-augmented network visibility.
+
+### 🧱 [devxplatform](https://github.com/marcuspat/devxplatform)
+A developer experience platform integrating AI agents, infrastructure tooling, and scalable patterns for agentic system design.
 
 ## 📊 Engineering Philosophy
 
