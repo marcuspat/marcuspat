@@ -96,23 +96,29 @@ A developer experience platform integrating AI agents, infrastructure tooling, a
 
 ## 🛠️ Technology Stack
 
-### **Infrastructure & Platforms**
+### 🧱 Infrastructure & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
-### **AI & Development**
+### 🤖 AI & Agentic Development
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-000000?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
-### **Automation & Integration**
+### ⚙️ Automation & Integration
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-A8C900?style=flat&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Makefile-000000?style=flat&logo=gnubash&logoColor=white)
 
 ## 📈 Impact Metrics
 
@@ -140,9 +146,8 @@ A developer experience platform integrating AI agents, infrastructure tooling, a
 ## 📫 Let's Build the Future Together
 
 - 📧 **Email**: marcus.patman@gmail.com
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/marcuspatman/)
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/marcuspat)
-- 💬 **Discord**: Available for discussions on AI engineering
+- 💼 **LinkedIn**: https://www.linkedin.com/in/marcuspatman/
+- 🐦 **Twitter**: [@marcuspat](https://twitter.com/marcuspat)
 
 ### 🤝 **I'm Interested In:**
 - Collaborating on agentic engineering projects
