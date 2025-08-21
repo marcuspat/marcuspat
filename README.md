@@ -80,9 +80,6 @@ A secure Rust-based encryption and data-handling utility focused on safety, spee
 ### 🧠 [netrain](https://github.com/marcuspat/netrain)
 A Matrix-style real-time network packet monitor with live threat detection and visual telemetry—designed for AI-augmented network visibility.
 
-### 🧱 [devxplatform](https://github.com/marcuspat/devxplatform)
-A developer experience platform integrating AI agents, infrastructure tooling, and scalable patterns for agentic system design.
-
 ## 📊 Engineering Philosophy
 
 > **"The best systems don't just scale—they evolve."**
