@@ -154,6 +154,10 @@ A Matrix-style real-time network packet monitor with live threat detection and v
 
 ---
 
+[![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcuspat)](https://github.com/marcuspat/github-readme-stats)
+
+---
+
 **⚡ "Building tomorrow's intelligent systems with today's engineering principles"**
 
 *This profile itself demonstrates agentic engineering—collaboratively written through human vision and AI assistance.*
