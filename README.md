@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center">Marcus Patman</h1>
-<p align="center"><strong>Agentic Systems Engineer · Platform Engineering · Cloud & Linux Infrastructure</strong></p>
+<p align="center"><strong>Top 1% Autonomous Agentic Developer · Infrastructure Engineer</strong></p>
 <p align="center"><em>12+ years building reliable infrastructure — now building autonomous, AI-assisted developer platforms.</em></p>
+<p align="center">Pioneering agentic workflows and scalable cloud-native architectures through autonomous multi-agent systems.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcuspatman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -68,7 +69,7 @@ My independent agentic engineering work — exploring autonomous workflows, tool
 ## 🏆 Featured Projects
 
 ### 🤖 [turbo-flow](https://github.com/marcuspat/turbo-flow) · ⭐ 151
-My open-source flagship — an advanced agentic development environment. The current **v4.0** release builds on Ruflo v3.5 with 60+ agents, 215+ MCP tools, cross-session memory (Beads), a codebase knowledge graph (GitNexus), and per-agent git-worktree isolation. One command bootstraps a full setup across DevPod, Codespaces, or Rackspace Spot.
+My open-source flagship — an advanced agentic development environment that lets developers bootstrap a full agentic setup in minutes. The current **v4.0** release builds on Ruflo v3.5 with 60+ agents, 215+ MCP tools, cross-session memory (Beads), a codebase knowledge graph (GitNexus), and per-agent git-worktree isolation. One command bootstraps across DevPod, Codespaces, or Rackspace Spot. 🔗 [turboflow.online](https://turboflow.online/)
 
 ### 🚀 [agentic-powered-golden-path-demo](https://github.com/marcuspat/agentic-powered-golden-path-demo) · ⭐ 12
 An AI-powered developer onboarding platform — natural language to deployed applications via GitOps. Golden-path workflows built on ArgoCD and OpenRouter integration.
@@ -194,19 +195,6 @@ Technical Reviewer for **Packt Publishing**:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/marcuspat">
-    <img src="https://github-readme-stats.vercel.app/api?username=marcuspat&show_icons=true&theme=tokyonight&hide_border=true" alt="Marcus's GitHub stats"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuspat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
 
 ---
 
