@@ -39,7 +39,7 @@ My independent agentic engineering work — exploring autonomous workflows, tool
 <p align="center">
   <a href="https://adventureonthewave.com"><img src="https://i.ibb.co/N6m72sYQ/AWLabs.png" alt="AdventureOnTheWave Labs" height="260"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/k66t5rxs/CMLabs.png" alt="Creando Tu Matrix Labs" height="260"/>
+  <a href="https://creandotumatrix.com"><img src="https://i.ibb.co/k66t5rxs/CMLabs.png" alt="Creando Tu Matrix Labs" height="260"/></a>
 </p>
 
 ---
