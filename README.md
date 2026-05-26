@@ -14,7 +14,7 @@
   <a href="mailto:marcus.patman@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center"><strong>📍 Los Angeles, CA · 💼 Open to platform / agentic engineering roles</strong></p>
+<p align="center"><strong>💼 Open to platform / agentic engineering roles</strong></p>
 
 ---
 
