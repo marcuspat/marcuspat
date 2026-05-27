@@ -37,9 +37,9 @@ I build, understand, and optimize. If you're orchestrating intelligent workflows
 My independent agentic engineering work — exploring autonomous workflows, tooling, and the practice of human-AI collaboration.
 
 <p align="center">
-  <a href="https://adventureonthewave.com"><img src="https://i.ibb.co/N6m72sYQ/AWLabs.png" alt="AdventureOnTheWave Labs" height="260"/></a>
+  <a href="https://www.adventurewavelabs.space"><img src="https://i.ibb.co/N6m72sYQ/AWLabs.png" alt="AdventureOnTheWave Labs" height="260"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://creandotumatrix.com"><img src="https://i.ibb.co/k66t5rxs/CMLabs.png" alt="Creando Tu Matrix Labs" height="260"/></a>
+  <a href="https://www.adventurewavelabs.space"><img src="https://i.ibb.co/k66t5rxs/CMLabs.png" alt="Creando Tu Matrix Labs" height="260"/></a>
 </p>
 
 ---
