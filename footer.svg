@@ -1,0 +1,24 @@
+<svg width="1200" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#22d3ee" stroke-width="0.3" opacity="0.08"/>
+    </pattern>
+    <filter id="subtle-glow" x="-5%" y="-50%" width="110%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="80" fill="#050505"/>
+  <rect width="1200" height="80" fill="url(#grid)"/>
+  <rect x="0" y="0"  width="3"    height="80" fill="#22d3ee" opacity="0.9"/>
+  <rect x="1197" y="0" width="3"  height="80" fill="#22d3ee" opacity="0.35"/>
+  <rect x="0" y="78"  width="1200" height="2" fill="#22d3ee" opacity="0.9" filter="url(#subtle-glow)"/>
+  <rect x="3"  y="0"  width="40"  height="2"  fill="#22d3ee" opacity="0.7"/>
+  <rect x="1157" y="0" width="40" height="2"  fill="#22d3ee" opacity="0.4"/>
+  <text x="600" y="46" text-anchor="middle"
+    font-family="'JetBrains Mono', 'Courier New', monospace"
+    font-size="12" fill="#4b5563" letter-spacing="2">// BUILDING TOMORROW'S INTELLIGENT SYSTEMS WITH TODAY'S ENGINEERING PRINCIPLES</text>
+</svg>
