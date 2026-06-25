@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Banner](banner.svg)](https://github.com/marcuspat)
 
 **Los Angeles, CA · Agentic Systems Engineer**
@@ -23,13 +25,15 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 [Turbo-Flow Stack](#the-turbo-flow-stack) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates)
 
+</div>
+
 ---
 
 ## The Turbo-Flow Stack
 
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
-| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ⭐ 162 | Shell / Python | Full agentic dev environment — 600+ AI subagents, 215+ MCP tools, cross-session memory (Beads), codebase knowledge graph (GitNexus), per-agent git-worktree isolation. One command bootstraps on DevPod, Codespaces, or Rackspace Spot. |
+| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ⭐ 162 | Shell / Python | Full agentic dev environment — 215+ MCP tools, cross-session memory (Beads), codebase knowledge graph (GitNexus), per-agent git-worktree isolation. One command bootstraps on DevPod, Codespaces, or Rackspace Spot. |
 
 ## Developer Tooling
 
