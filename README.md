@@ -23,7 +23,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 `Autonomous Agent Orchestration` · `Multi-Agent Swarm Coordination` · `Cloud-Native Infrastructure` · `Rust Systems Tooling`
 
-[Turbo-Flow Stack](#the-turbo-flow-stack) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates)
+[Turbo-Flow Stack](#the-turbo-flow-stack) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Organizations](#organizations)
 
 </div>
 
@@ -40,7 +40,10 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
 | [cargo-forge](https://github.com/marcuspat/cargo-forge) | ⭐ 16 | Rust | Interactive Rust project generator — 7 typed templates: CLI, API server, WebAssembly, game engine, embedded. |
-| [secret-scan](https://github.com/marcuspat/secret-scan) | ⭐ 9 | Rust | Blazing-fast secret scanner for codebases — AWS keys, GitHub tokens, API secrets. Published as `secretscan` on crates.io. |
+| [secret-scan](https://github.com/adventurewave-labs/secret-scan) | ⭐ 9 | Rust | Blazing-fast secret scanner for codebases — AWS keys, GitHub tokens, API secrets. Published as `secretscan` on crates.io. |
+| [codescope](https://github.com/adventurewave-labs/codescope) | — | Rust | Single-binary code intelligence engine for AI coding agents — tree-sitter, MCP, CLI. |
+| [Sentinel](https://github.com/marcuspat/Sentinel) | — | Rust | Safe agentic sysadmin — file operations, process control, network inspection with human-in-the-loop guardrails. |
+| [spacelift-intent](https://github.com/marcuspat/spacelift-intent) | — | Go | Natural language → cloud infrastructure via Terraform/OpenTofu APIs. |
 
 ---
 
@@ -68,6 +71,15 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 |---|---|---|
 | [file-hasher](https://crates.io/crates/file-hasher) | 468 | Fast SHA256 / SHA1 / MD5 file hashing CLI with progress output |
 | [turbo-fnv](https://crates.io/crates/turbo-fnv) | 381 | Drop-in FNV hash replacement with batch-processing optimizations |
+
+---
+
+## Organizations
+
+| Org | Focus |
+|---|---|
+| [adventurewave-labs](https://github.com/adventurewave-labs) | Open-source developer tooling for the Claude and agentic AI ecosystem — the lab behind turbo-flow |
+| [creandotumatrix-labs](https://github.com/creandotumatrix-labs) | Agentic AI engineering and cloud-native solutions for Latin America |
 
 ---
 
