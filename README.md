@@ -18,7 +18,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 [![Stars](https://img.shields.io/github/stars/marcuspat?style=flat-square&color=2b2b2b&logo=github&logoColor=white&label=Stars)](https://github.com/marcuspat?tab=repositories&sort=stargazers)
 [![Crates](https://img.shields.io/badge/Crates.io-11K%2B_downloads-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)](https://crates.io/users/marcuspat)
-[![Contributions](https://img.shields.io/github/commit-activity/y/marcuspat/turbo-flow?style=flat-square&color=2b2b2b&logo=github&logoColor=white&label=Commits%2Fyr%20%28turbo-flow%29)](https://github.com/marcuspat/turbo-flow/commits/main)
+[![Contributions](https://img.shields.io/badge/Contributions_(1yr)-3.6K%2B-2b2b2b?style=flat-square&logo=github&logoColor=white)](https://github.com/marcuspat)
 [![Website](https://img.shields.io/badge/Website-marcuspatman.space-2b2b2b?style=flat-square)](https://marcuspatman.space)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcuspat&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=00d4ff&icon_color=00d4ff&text_color=888888&ring_color=006680)](https://github.com/marcuspat)
