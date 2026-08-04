@@ -66,6 +66,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 | Crate | Downloads | Purpose |
 |---|---|---|
 | [cargocrypt](https://crates.io/crates/cargocrypt) | 1,572 | Zero-config cryptographic operations for Rust projects |
+| [secretscan](https://crates.io/crates/secretscan) | 2,816 | Blazing-fast secret scanner for codebases -- AWS keys, GitHub tokens, API secrets |
 
 ### Utilities
 
@@ -73,6 +74,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 |---|---|---|
 | [file-hasher](https://crates.io/crates/file-hasher) | 468 | Fast SHA256 / SHA1 / MD5 file hashing CLI with progress output |
 | [turbo-fnv](https://crates.io/crates/turbo-fnv) | 381 | Drop-in FNV hash replacement with batch-processing optimizations |
+| [cargo-forge](https://crates.io/crates/cargo-forge) | 2,199 | Interactive Rust project generator -- 7 typed templates for CLI, API server, WebAssembly, game engine, embedded |
 
 ---
 
