@@ -40,10 +40,10 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
 | [cargo-forge](https://github.com/marcuspat/cargo-forge) | ⭐ 16 | Rust | Interactive Rust project generator — 7 typed templates: CLI, API server, WebAssembly, game engine, embedded. |
-| [secret-scan](https://github.com/adventurewave-labs/secret-scan) | ⭐ 9 | Rust | Blazing-fast secret scanner for codebases — AWS keys, GitHub tokens, API secrets. Published as `secretscan` on crates.io. |
-| [codescope](https://github.com/adventurewave-labs/codescope) | — | Rust | Single-binary code intelligence engine for AI coding agents — tree-sitter, MCP, CLI. |
 | [Sentinel](https://github.com/marcuspat/Sentinel) | — | Rust | Safe agentic sysadmin — file operations, process control, network inspection with human-in-the-loop guardrails. |
 | [spacelift-intent](https://github.com/marcuspat/spacelift-intent) | — | Go | Natural language → cloud infrastructure via Terraform/OpenTofu APIs. |
+
+More tooling — `secret-scan`, `codescope`, and the rest of the lab — lives at [adventurewave-labs](https://github.com/adventurewave-labs).
 
 ---
 
