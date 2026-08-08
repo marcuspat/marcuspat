@@ -33,14 +33,15 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
-| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ![Stars](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&color=2b2b2b&logo=github&logoColor=white) | Shell / Python | Full agentic dev environment — 215+ MCP tools, cross-session memory (Beads), codebase knowledge graph (GitNexus), per-agent git-worktree isolation. One command bootstraps on DevPod, Codespaces, or Rackspace Spot. |
-| [turbo-flow-wizard](https://github.com/adventurewave-labs/turbo-flow-wizard) | ![Stars](https://img.shields.io/github/stars/adventurewave-labs/turbo-flow-wizard?style=flat-square&color=2b2b2b&logo=github&logoColor=white) | Shell | Guided setup wizard for turbo-flow — interactive generator for project-specific CLAUDE.md configs. 12 app types, 7 methodologies, 19 feature sets. |
+| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ⭐ 168 | Shell / Python | Full agentic dev environment — 215+ MCP tools, cross-session memory (Beads), codebase knowledge graph (GitNexus), per-agent git-worktree isolation. One command bootstraps on DevPod, Codespaces, or Rackspace Spot. |
+| [turbo-flow-wizard](https://github.com/adventurewave-labs/turbo-flow-wizard) | ⭐ 5 | Shell | Guided setup wizard for turbo-flow — interactive generator for project-specific CLAUDE.md configs. 12 app types, 7 methodologies, 19 feature sets. |
 
 ## Developer Tooling
 
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
 | [cargo-forge](https://github.com/marcuspat/cargo-forge) | ⭐ 16 | Rust | Interactive Rust project generator — 7 typed templates: CLI, API server, WebAssembly, game engine, embedded. |
+| [netrain](https://github.com/marcuspat/netrain) | ⭐ 2 | Rust | Matrix-style network packet monitor — real-time DDoS and port-scan detection in the terminal. |
 | [Sentinel](https://github.com/marcuspat/Sentinel) | — | Rust | Safe agentic sysadmin — file operations, process control, network inspection with human-in-the-loop guardrails. |
 | [spacelift-intent](https://github.com/marcuspat/spacelift-intent) | — | Go | Natural language → cloud infrastructure via Terraform/OpenTofu APIs. |
 
