@@ -55,9 +55,9 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 ### In motion
 
-| [<img src="https://raw.githubusercontent.com/marcuspat/Sentinel/main/demo.gif" width="420" alt="Sentinel listing capabilities and the deny-by-default policy">](https://github.com/marcuspat/Sentinel) | [<img src="https://raw.githubusercontent.com/adventurewave-labs/loopgen-rs/main/demo.gif" width="420" alt="loopgen rendering an agentic loop harness with --dry-run">](https://github.com/adventurewave-labs/loopgen-rs) |
+| [<img src="https://raw.githubusercontent.com/marcuspat/Sentinel/main/demo.gif" width="420" alt="Sentinel listing capabilities and the deny-by-default policy">](https://github.com/marcuspat/Sentinel) | [<img src="https://raw.githubusercontent.com/marcuspat/cargo-forge/main/demo.gif" width="420" alt="cargo-forge scaffolding a new Rust project from a typed template">](https://github.com/marcuspat/cargo-forge) |
 |:---:|:---:|
-| *Sentinel — safe agentic sysadmin* | *loopgen-rs — agentic loop runner* |
+| *Sentinel — safe agentic sysadmin* | *cargo-forge — interactive Rust project generator* |
 
 More tooling — `secret-scan`, `codescope`, and the rest of the lab — lives at [adventurewave-labs](https://github.com/adventurewave-labs).
 
