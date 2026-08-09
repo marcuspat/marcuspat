@@ -29,6 +29,14 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 ---
 
+<div align="center">
+
+<a href="https://github.com/marcuspat/netrain"><img src="https://raw.githubusercontent.com/marcuspat/netrain/main/demo.gif" width="650" alt="netrain — live packet log, threat detection, and hex dump in the terminal"></a>
+
+*netrain — live packet monitor with threat detection*
+
+</div>
+
 ## The Turbo-Flow Stack
 
 | Tool | Stars | Lang | Purpose |
@@ -44,6 +52,12 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 | [netrain](https://github.com/marcuspat/netrain) | ⭐ 2 | Rust | Matrix-style network packet monitor — real-time DDoS and port-scan detection in the terminal. |
 | [Sentinel](https://github.com/marcuspat/Sentinel) | — | Rust | Safe agentic sysadmin — file operations, process control, network inspection with human-in-the-loop guardrails. |
 | [spacelift-intent](https://github.com/marcuspat/spacelift-intent) | — | Go | Natural language → cloud infrastructure via Terraform/OpenTofu APIs. |
+
+### In motion
+
+| [<img src="https://raw.githubusercontent.com/marcuspat/Sentinel/main/demo.gif" width="420" alt="Sentinel listing capabilities and the deny-by-default policy">](https://github.com/marcuspat/Sentinel) | [<img src="https://raw.githubusercontent.com/adventurewave-labs/loopgen-rs/main/demo.gif" width="420" alt="loopgen rendering an agentic loop harness with --dry-run">](https://github.com/adventurewave-labs/loopgen-rs) |
+|:---:|:---:|
+| *Sentinel — safe agentic sysadmin* | *loopgen-rs — agentic loop runner* |
 
 More tooling — `secret-scan`, `codescope`, and the rest of the lab — lives at [adventurewave-labs](https://github.com/adventurewave-labs).
 
@@ -72,7 +86,6 @@ More tooling — `secret-scan`, `codescope`, and the rest of the lab — lives a
 | Crate | Downloads | Purpose |
 |---|---|---|
 | [file-hasher](https://crates.io/crates/file-hasher) | 468 | Fast SHA256 / SHA1 / MD5 file hashing CLI with progress output |
-| [turbo-fnv](https://crates.io/crates/turbo-fnv) | 381 | Drop-in FNV hash replacement with batch-processing optimizations |
 | [cargo-forge](https://crates.io/crates/cargo-forge) | 2,199 | Interactive Rust project generator -- 7 typed templates for CLI, API server, WebAssembly, game engine, embedded |
 
 ---
