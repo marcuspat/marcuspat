@@ -29,14 +29,6 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/marcuspat/netrain"><img src="https://raw.githubusercontent.com/marcuspat/netrain/main/demo.gif" width="650" alt="netrain — live packet log, threat detection, and hex dump in the terminal"></a>
-
-*netrain — live packet monitor with threat detection*
-
-</div>
-
 ## The Turbo-Flow Stack
 
 | Tool | Stars | Lang | Purpose |
@@ -61,7 +53,15 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 ### In motion
 
-| [<img src="https://raw.githubusercontent.com/marcuspat/Sentinel/main/demo.gif" width="420" alt="Sentinel listing capabilities and the deny-by-default policy">](https://github.com/marcuspat/Sentinel) | [<img src="https://raw.githubusercontent.com/marcuspat/cargo-forge/main/demo.gif" width="420" alt="cargo-forge scaffolding a new Rust project from a typed template">](https://github.com/marcuspat/cargo-forge) | [<img src="https://raw.githubusercontent.com/marcuspat/spacelift-intent/master/demo.gif" width="420" alt="spacelift-intent provisioning cloud resources from a natural-language request, and refusing an unconfirmed teardown">](https://github.com/marcuspat/spacelift-intent) |
+<div align="center">
+
+<a href="https://github.com/marcuspat/netrain"><img src="https://raw.githubusercontent.com/marcuspat/netrain/main/demo.gif" width="650" alt="netrain — live packet log, threat detection, and hex dump in the terminal"></a>
+
+*netrain — live packet monitor with threat detection*
+
+</div>
+
+| [<img src="https://raw.githubusercontent.com/marcuspat/Sentinel/main/demo.gif" width="420" height="412" alt="Sentinel listing capabilities and the deny-by-default policy">](https://github.com/marcuspat/Sentinel) | [<img src="https://raw.githubusercontent.com/marcuspat/cargo-forge/main/demo.gif" width="420" height="412" alt="cargo-forge scaffolding a new Rust project from a typed template">](https://github.com/marcuspat/cargo-forge) | [<img src="https://raw.githubusercontent.com/marcuspat/spacelift-intent/master/demo.gif" width="420" alt="spacelift-intent provisioning cloud resources from a natural-language request, and refusing an unconfirmed teardown">](https://github.com/marcuspat/spacelift-intent) |
 |:---:|:---:|:---:|
 | *Sentinel — safe agentic sysadmin* | *cargo-forge — interactive Rust project generator* | *spacelift-intent — natural language → cloud infrastructure* |
 
