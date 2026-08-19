@@ -35,12 +35,17 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 |---|---|---|---|
 | [turbo-flow](https://github.com/marcuspat/turbo-flow) | ⭐ 168 | Shell / Python | Full agentic dev environment — 215+ MCP tools, cross-session memory (Beads), codebase knowledge graph (GitNexus), per-agent git-worktree isolation. One command bootstraps on DevPod, Codespaces, or Rackspace Spot. |
 | [turbo-flow-wizard](https://github.com/adventurewave-labs/turbo-flow-wizard) | ⭐ 5 | Shell | Guided setup wizard for turbo-flow — interactive generator for project-specific CLAUDE.md configs. 12 app types, 7 methodologies, 19 feature sets. |
+| [cloop](https://github.com/adventurewave-labs/cloop) | ⭐ 0 | Rust | Agentic loops for Claude Code — zero-dependency CLI that wraps `claude --print` in a configurable loop until tests pass, a marker appears, or N iterations. |
 
 ### In motion
 
 | [<img src="https://raw.githubusercontent.com/marcuspat/marcuspat/main/demos/turbo-flow-demo.gif" width="420" alt="turbo-flow running the real codespace_setup.sh chain, then a live tmux tour and claude launch">](https://github.com/marcuspat/turbo-flow) | [<img src="https://raw.githubusercontent.com/marcuspat/marcuspat/main/demos/turbo-flow-wizard-demo.gif" width="420" alt="turbo-flow-wizard generating a CLAUDE.pre from a live Q&A session">](https://github.com/adventurewave-labs/turbo-flow-wizard) |
 |:---:|:---:|
 | *turbo-flow — real install, real tmux workspace, real claude launch* | *turbo-flow-wizard — interactive CLAUDE.md generator* |
+
+| [<img src="https://raw.githubusercontent.com/marcuspat/marcuspat/main/demos/cloop-demo.gif" width="650" alt="cloop wizard creating a fix-tests loop, then listing and showing it">](https://github.com/adventurewave-labs/cloop) |
+|:---:|
+| *cloop — agentic loops for Claude Code: new → list → show* |
 
 ## Developer Tooling
 
