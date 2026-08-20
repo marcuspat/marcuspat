@@ -74,6 +74,18 @@ More tooling — `secret-scan`, `codescope`, and the rest of the lab — lives a
 
 ---
 
+### Lab / Demos
+
+Experiments, proofs of concept, and agentic demos.
+
+| Repo | What it explores |
+|---|---|
+| [agentic-powered-golden-path-demo](https://github.com/adventurewave-labs/agentic-powered-golden-path-demo) | NL → GitOps deployment via golden-path workflows (ArgoCD + OpenRouter) |
+| [AI-Kubernetes-API-Generator-Demo](https://github.com/adventurewave-labs/AI-Kubernetes-API-Generator-Demo) | NL → Kubernetes API generation |
+| [agentic-devops-extravaganza](https://agentic-devops-extravaganza.vercel.app/) | Working demo of K8sGPT and Robusta running against a real Kubernetes API + GLM-4.5 LLM |
+
+---
+
 ## Published Rust Crates
 
 7 crates on crates.io — 11,000+ total downloads.
