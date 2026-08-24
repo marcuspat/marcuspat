@@ -54,7 +54,6 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 | [cargo-forge](https://github.com/marcuspat/cargo-forge) | ⭐ 16 | Rust | Interactive Rust project generator — 7 typed templates: CLI, API server, WebAssembly, game engine, embedded. |
 | [netrain](https://github.com/marcuspat/netrain) | ⭐ 2 | Rust | Matrix-style network packet monitor — real-time DDoS and port-scan detection in the terminal. |
 | [Sentinel](https://github.com/marcuspat/Sentinel) | — | Rust | Safe agentic sysadmin — file operations, process control, network inspection with human-in-the-loop guardrails. |
-| [spacelift-intent](https://github.com/marcuspat/spacelift-intent) | — | Go | Natural language → cloud infrastructure via Terraform/OpenTofu APIs. |
 
 ### In motion
 
@@ -66,9 +65,9 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 </div>
 
-| [<img src="https://raw.githubusercontent.com/marcuspat/Sentinel/main/demo.gif" width="420" height="412" alt="Sentinel listing capabilities and the deny-by-default policy">](https://github.com/marcuspat/Sentinel) | [<img src="https://raw.githubusercontent.com/marcuspat/cargo-forge/main/demo.gif" width="420" height="412" alt="cargo-forge scaffolding a new Rust project from a typed template">](https://github.com/marcuspat/cargo-forge) | [<img src="https://raw.githubusercontent.com/marcuspat/spacelift-intent/master/demo.gif" width="420" alt="spacelift-intent provisioning cloud resources from a natural-language request, and refusing an unconfirmed teardown">](https://github.com/marcuspat/spacelift-intent) |
-|:---:|:---:|:---:|
-| *Sentinel — safe agentic sysadmin* | *cargo-forge — interactive Rust project generator* | *spacelift-intent — natural language → cloud infrastructure* |
+| [<img src="https://raw.githubusercontent.com/marcuspat/Sentinel/main/demo.gif" width="420" height="412" alt="Sentinel listing capabilities and the deny-by-default policy">](https://github.com/marcuspat/Sentinel) | [<img src="https://raw.githubusercontent.com/marcuspat/cargo-forge/main/demo.gif" width="420" height="412" alt="cargo-forge scaffolding a new Rust project from a typed template">](https://github.com/marcuspat/cargo-forge) |
+|:---:|:---:|
+| *Sentinel — safe agentic sysadmin* | *cargo-forge — interactive Rust project generator* |
 
 More tooling — `secret-scan`, `codescope`, and the rest of the lab — lives at [adventurewave-labs](https://github.com/adventurewave-labs).
 
