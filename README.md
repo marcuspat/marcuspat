@@ -35,7 +35,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 |---|---|---|---|
 | [turbo-flow](https://github.com/marcuspat/turbo-flow) | ⭐ 168 | Shell / Python | Full agentic dev environment — 215+ MCP tools, cross-session memory (Beads), codebase knowledge graph (GitNexus), per-agent git-worktree isolation. One command bootstraps on DevPod, Codespaces, or Rackspace Spot. |
 | [turbo-flow-wizard](https://github.com/adventurewave-labs/turbo-flow-wizard) | ⭐ 5 | Shell | Guided setup wizard for turbo-flow — interactive generator for project-specific CLAUDE.md configs. 12 app types, 7 methodologies, 19 feature sets. |
-| [cloop](https://github.com/adventurewave-labs/cloop) | ⭐ 0 | Rust | Agentic loops for Claude Code — zero-dependency CLI that wraps `claude --print` in a configurable loop until tests pass, a marker appears, or N iterations. |
+| [loopgen](https://github.com/adventurewave-labs/loopgen-rs) | ⭐ 0 | Rust | Agentic loops for Claude Code — wizard, TOML configs, bash export, LOOP_STATUS protocol. Published on [crates.io](https://crates.io/crates/loopgen). |
 | [tf-verify.sh](https://github.com/marcuspat/turbo-flow/blob/main/devpods/tf-verify.sh) | — | Shell | 50+ quality gates across 12 verification phases — dependency integrity, deployment state, artifact validation, and environment checks. Battle-tested on real client engagements. Bundled in turbo-flow `devpods/`. |
 
 ### In motion
@@ -44,9 +44,9 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 |:---:|:---:|
 | *turbo-flow — real install, real tmux workspace, real claude launch* | *turbo-flow-wizard — interactive CLAUDE.md generator* |
 
-| [<img src="https://raw.githubusercontent.com/marcuspat/marcuspat/main/demos/cloop-demo.gif" width="650" alt="cloop wizard creating a fix-tests loop, then listing and showing it">](https://github.com/adventurewave-labs/cloop) |
+| [<img src="https://raw.githubusercontent.com/adventurewave-labs/loopgen-rs/main/demo.gif" width="650" alt="loopgen driving an agentic loop with --dry-run">](https://github.com/adventurewave-labs/loopgen-rs) |
 |:---:|
-| *cloop — agentic loops for Claude Code: new → list → show* |
+| *loopgen — agentic loops for Claude Code: wizard, TOML, bash export* |
 
 ## Developer Tooling
 
