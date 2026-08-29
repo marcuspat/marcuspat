@@ -118,18 +118,9 @@ Experiments, proofs of concept, and agentic demos.
 
 ## Technical Reviews
 
-Technical reviewer for [Packt Publishing](https://www.packtpub.com) since 2021 — running every listing on a clean box, checking commands against distro drift, and flagging what went stale between editions. Six titles, two credited in print.
+Technical reviewer for [Packt Publishing](https://www.packtpub.com) since 2021 — six titles, two credited in print. Most recent: *Operational AI with Docker* (2026), *Microsoft Foundry in Action* (2026), and *Claude Beyond the Prompt* (Oct 2026, credited).
 
-| Book | Published | Focus |
-|---|---|---|
-| [Mastering Linux Administration](https://www.packtpub.com/en-us/product/mastering-linux-administration-9781789954272) ⭐ | Jun 2021 | LVM, systemd, Ansible, Kubernetes, AWS/Azure |
-| [Mastering Linux Administration, 2nd Ed.](https://www.packtpub.com/en-us/product/mastering-linux-administration-9781837630691) | Mar 2024 | Shell scripting, Docker, hypervisors, cloud rewrite |
-| [Microsoft Copilot in Azure](https://www.packtpub.com/en-us/product/microsoft-copilot-in-azure-9781836200253) | Sep 2025 | LLM-assisted cloud ops, AKS, cost and compliance |
-| [Operational AI with Docker](https://www.packtpub.com/en-us/product/operational-ai-with-docker-9781807301095) | Apr 2026 | Docker Model Runner, agentic services, MCP, edge K8s |
-| [Microsoft Foundry in Action](https://www.packtpub.com/en-us/product/microsoft-foundry-in-action-9781835888698) | Jun 2026 | Enterprise agent lifecycle, evaluations, observability |
-| [Claude Beyond the Prompt](https://www.packtpub.com/en-us/product/claude-beyond-the-prompt-9781807782283) ⭐ | Oct 2026 | Agent skills, agentic workflows, context engineering |
-
-⭐ credited in print · full write-ups at [packt-technical-reviews](https://marcuspat.github.io/packt-technical-reviews/)
+Full list → [packt-technical-reviews](https://marcuspat.github.io/packt-technical-reviews/)
 
 ---
 
