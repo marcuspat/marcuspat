@@ -23,7 +23,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 `Autonomous Agent Orchestration` · `Multi-Agent Swarm Coordination` · `Cloud-Native Infrastructure` · `Rust Systems Tooling`
 
-[Turbo-Flow Stack](#the-turbo-flow-stack) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Organizations](#organizations)
+[Turbo-Flow Stack](#the-turbo-flow-stack) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
 </div>
 
@@ -113,6 +113,23 @@ Experiments, proofs of concept, and agentic demos.
 |---|---|---|
 | [file-hasher](https://crates.io/crates/file-hasher) | 468 | Fast SHA256 / SHA1 / MD5 file hashing CLI with progress output |
 | [cargo-forge](https://crates.io/crates/cargo-forge) | 2,199 | Interactive Rust project generator -- 7 typed templates for CLI, API server, WebAssembly, game engine, embedded |
+
+---
+
+## Technical Reviews
+
+Technical reviewer for [Packt Publishing](https://www.packtpub.com) since 2021 — running every listing on a clean box, checking commands against distro drift, and flagging what went stale between editions. Six titles, two credited in print.
+
+| Book | Published | Focus |
+|---|---|---|
+| [Mastering Linux Administration](https://www.packtpub.com/en-us/product/mastering-linux-administration-9781789954272) ⭐ | Jun 2021 | LVM, systemd, Ansible, Kubernetes, AWS/Azure |
+| [Mastering Linux Administration, 2nd Ed.](https://www.packtpub.com/en-us/product/mastering-linux-administration-9781837630691) | Mar 2024 | Shell scripting, Docker, hypervisors, cloud rewrite |
+| [Microsoft Copilot in Azure](https://www.packtpub.com/en-us/product/microsoft-copilot-in-azure-9781836200253) | Sep 2025 | LLM-assisted cloud ops, AKS, cost and compliance |
+| [Operational AI with Docker](https://www.packtpub.com/en-us/product/operational-ai-with-docker-9781807301095) | Apr 2026 | Docker Model Runner, agentic services, MCP, edge K8s |
+| [Microsoft Foundry in Action](https://www.packtpub.com/en-us/product/microsoft-foundry-in-action-9781835888698) | Jun 2026 | Enterprise agent lifecycle, evaluations, observability |
+| [Claude Beyond the Prompt](https://www.packtpub.com/en-us/product/claude-beyond-the-prompt-9781807782283) ⭐ | Oct 2026 | Agent skills, agentic workflows, context engineering |
+
+⭐ credited in print · full write-ups at [packt-technical-reviews](https://marcuspat.github.io/packt-technical-reviews/)
 
 ---
 
