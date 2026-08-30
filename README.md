@@ -17,7 +17,7 @@
 I build autonomous multi-agent systems that let one engineer ship like a team.
 
 [![Stars](https://img.shields.io/github/stars/marcuspat?style=flat-square&color=2b2b2b&logo=github&logoColor=white&label=Stars)](https://github.com/marcuspat?tab=repositories&sort=stargazers)
-[![Crates](https://img.shields.io/badge/Crates.io-11K%2B_downloads-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)](https://crates.io/users/marcuspat)
+[![Crates](https://img.shields.io/badge/Crates.io-Rust_crates-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)](https://crates.io/users/marcuspat)
 [![Contributions](https://img.shields.io/badge/Contributions_(1yr)-3.6K%2B-2b2b2b?style=flat-square&logo=github&logoColor=white)](https://github.com/marcuspat)
 [![Website](https://img.shields.io/badge/Website-marcuspatman.space-2b2b2b?style=flat-square)](https://marcuspatman.space)
 
@@ -33,10 +33,10 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
-| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ⭐ 168 | Shell / Python | Full agentic dev environment — 215+ MCP tools, cross-session memory (Beads), codebase knowledge graph (GitNexus), per-agent git-worktree isolation. One command bootstraps on DevPod, Codespaces, or Rackspace Spot. |
-| [turbo-flow-wizard](https://github.com/adventurewave-labs/turbo-flow-wizard) | ⭐ 5 | Shell | Guided setup wizard for turbo-flow — interactive generator for project-specific CLAUDE.md configs. 12 app types, 7 methodologies, 19 feature sets. |
-| [loopgen](https://github.com/adventurewave-labs/loopgen-rs) | ⭐ 0 | Rust | Agentic loops for Claude Code — wizard, TOML configs, bash export, LOOP_STATUS protocol. Published on [crates.io](https://crates.io/crates/loopgen). |
-| [tf-verify.sh](https://github.com/marcuspat/turbo-flow/blob/main/devpods/tf-verify.sh) | — | Shell | 50+ quality gates across 12 verification phases — dependency integrity, deployment state, artifact validation, and environment checks. Battle-tested on real client engagements. Bundled in turbo-flow `devpods/`. |
+| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ![](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&label=%E2%AD%90) | Shell / Python | Full agentic dev environment — 215+ MCP tools, cross-session memory (Beads), codebase knowledge graph (GitNexus), per-agent git-worktree isolation. One command bootstraps on DevPod, Codespaces, or Rackspace Spot. |
+| [turbo-flow-wizard](https://github.com/adventurewave-labs/turbo-flow-wizard) | ![](https://img.shields.io/github/stars/adventurewave-labs/turbo-flow-wizard?style=flat-square&label=%E2%AD%90) | Shell | Guided setup wizard for turbo-flow — interactive generator for project-specific CLAUDE.md configs. 12 app types, 7 methodologies, 19 feature sets. |
+| [loopgen](https://github.com/adventurewave-labs/loopgen-rs) | ![](https://img.shields.io/github/stars/adventurewave-labs/loopgen-rs?style=flat-square&label=%E2%AD%90) | Rust | Agentic loops for Claude Code — wizard, TOML configs, bash export, LOOP_STATUS protocol. Published on [crates.io](https://crates.io/crates/loopgen). |
+| [tf-verify.sh](https://github.com/marcuspat/turbo-flow/blob/main/devpods/tf-verify.sh) | — | Shell | 50+ quality gates across 12 verification phases — dependency integrity, deployment state, artifact validation, and environment checks. Bundled in turbo-flow `devpods/`. |
 
 ### In motion
 
@@ -52,9 +52,9 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
-| [cargo-forge](https://github.com/marcuspat/cargo-forge) | ⭐ 16 | Rust | Interactive Rust project generator — 7 typed templates: CLI, API server, WebAssembly, game engine, embedded. |
-| [netrain](https://github.com/marcuspat/netrain) | ⭐ 2 | Rust | Matrix-style network packet monitor — real-time DDoS and port-scan detection in the terminal. |
-| [Sentinel](https://github.com/marcuspat/Sentinel) | — | Rust | Safe agentic sysadmin — file operations, process control, network inspection with human-in-the-loop guardrails. |
+| [cargo-forge](https://github.com/marcuspat/cargo-forge) | ![](https://img.shields.io/github/stars/marcuspat/cargo-forge?style=flat-square&label=%E2%AD%90) | Rust | Rust project generator — 7 typed templates: CLI, API server, WebAssembly, game engine, embedded. |
+| [netrain](https://github.com/marcuspat/netrain) | ![](https://img.shields.io/github/stars/marcuspat/netrain?style=flat-square&label=%E2%AD%90) | Rust | Matrix-style network packet monitor — real-time DDoS and port-scan detection in the terminal. |
+| [Sentinel](https://github.com/marcuspat/Sentinel) | ![](https://img.shields.io/github/stars/marcuspat/Sentinel?style=flat-square&label=%E2%AD%90) | Rust | Safe agentic sysadmin — file operations, process control, network inspection with human-in-the-loop guardrails. |
 
 ### In motion
 
@@ -91,28 +91,34 @@ Experiments, proofs of concept, and agentic demos.
 
 ## Published Rust Crates
 
-7 crates on crates.io — 11,000+ total downloads.
+7 crates on crates.io — download counts below update automatically.
 
 ### Networking & Observability
 
 | Crate | Downloads | Purpose |
 |---|---|---|
-| [netrain](https://crates.io/crates/netrain) | 3,489 | Matrix-style network packet monitor with IP tracking and threat detection |
-| [k8s-netinspect](https://crates.io/crates/k8s-netinspect) | 482 | Minimal Kubernetes network inspection — CNI and pod connectivity |
+| [netrain](https://crates.io/crates/netrain) | ![](https://img.shields.io/crates/d/netrain?style=flat-square&label=%E2%86%93) | Matrix-style network packet monitor with IP tracking and threat detection |
+| [k8s-netinspect](https://crates.io/crates/k8s-netinspect) | ![](https://img.shields.io/crates/d/k8s-netinspect?style=flat-square&label=%E2%86%93) | Minimal Kubernetes network inspection — CNI and pod connectivity |
 
 ### Security & Cryptography
 
 | Crate | Downloads | Purpose |
 |---|---|---|
-| [cargocrypt](https://crates.io/crates/cargocrypt) | 1,572 | Zero-config cryptographic operations for Rust projects |
-| [secretscan](https://crates.io/crates/secretscan) | 2,816 | Blazing-fast secret scanner for codebases -- AWS keys, GitHub tokens, API secrets |
+| [cargocrypt](https://crates.io/crates/cargocrypt) | ![](https://img.shields.io/crates/d/cargocrypt?style=flat-square&label=%E2%86%93) | Zero-config cryptographic operations for Rust projects |
+| [secretscan](https://crates.io/crates/secretscan) | ![](https://img.shields.io/crates/d/secretscan?style=flat-square&label=%E2%86%93) | Blazing-fast secret scanner for codebases -- AWS keys, GitHub tokens, API secrets |
 
 ### Utilities
 
 | Crate | Downloads | Purpose |
 |---|---|---|
-| [file-hasher](https://crates.io/crates/file-hasher) | 468 | Fast SHA256 / SHA1 / MD5 file hashing CLI with progress output |
-| [cargo-forge](https://crates.io/crates/cargo-forge) | 2,199 | Interactive Rust project generator -- 7 typed templates for CLI, API server, WebAssembly, game engine, embedded |
+| [file-hasher](https://crates.io/crates/file-hasher) | ![](https://img.shields.io/crates/d/file-hasher?style=flat-square&label=%E2%86%93) | Fast SHA256 / SHA1 / MD5 file hashing CLI with progress output |
+| [cargo-forge](https://crates.io/crates/cargo-forge) | ![](https://img.shields.io/crates/d/cargo-forge?style=flat-square&label=%E2%86%93) | Rust project generator -- 7 typed templates for CLI, API server, WebAssembly, game engine, embedded |
+
+### Agent Tooling
+
+| Crate | Downloads | Purpose |
+|---|---|---|
+| [loopgen](https://crates.io/crates/loopgen) | ![](https://img.shields.io/crates/d/loopgen?style=flat-square&label=%E2%86%93) | Agentic loops for Claude Code — wizard, TOML configs, bash export, LOOP_STATUS protocol |
 
 ---
 
