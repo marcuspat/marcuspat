@@ -2,7 +2,7 @@
 
 [![Banner](banner.svg)](https://github.com/marcuspat)
 
-**Los Angeles, CA · Agentic Systems Engineer**
+**Los Angeles, CA · Principal Agentic Engineer**
 
 [![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)](https://www.rust-lang.org)
 [![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org)
