@@ -18,7 +18,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 [![Stars](https://img.shields.io/github/stars/marcuspat?style=flat-square&color=2b2b2b&logo=github&logoColor=white&label=Stars)](https://github.com/marcuspat?tab=repositories&sort=stargazers)
 [![Crates](https://img.shields.io/badge/Crates.io-Rust_crates-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)](https://crates.io/users/marcuspat)
-[![Contributions](https://img.shields.io/badge/Contributions_(1yr)-3.6K%2B-2b2b2b?style=flat-square&logo=github&logoColor=white)](https://github.com/marcuspat)
+[![Contributions](https://img.shields.io/badge/Contributions-2b2b2b?style=flat-square&logo=github&logoColor=white)](https://github.com/marcuspat)
 [![Website](https://img.shields.io/badge/Website-marcuspatman.space-2b2b2b?style=flat-square)](https://marcuspatman.space)
 
 `Autonomous Agent Orchestration` · `Multi-Agent Swarm Coordination` · `Cloud-Native Infrastructure` · `Rust Systems Tooling`
