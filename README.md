@@ -79,7 +79,7 @@ Not just infrastructure — I ship complete products. [**Ancuria**](https://ancu
 
 <div align="center">
 
-<a href="https://ancuria.com"><img src="https://raw.githubusercontent.com/marcuspat/marcuspat/main/demos/ancuria-demo.gif" width="400" alt="Ancuria — a new user logs in on ancuria.com and tours the app: listing detail, Market Intelligence, RADAR payment-plan quoter, plans"></a>
+<a href="https://ancuria.com"><img src="https://raw.githubusercontent.com/marcuspat/marcuspat/main/demos/ancuria-demo.gif" width="650" alt="Ancuria — a new user logs in on ancuria.com and tours the app: listing detail, Market Intelligence, RADAR payment-plan quoter, plans"></a>
 
 *Ancuria — a brand-new user on the live product: login, listing detail, Market Intelligence, the RADAR payment-plan quoter, plans*
 
