@@ -23,7 +23,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 `Autonomous Agent Orchestration` · `Multi-Agent Swarm Coordination` · `Cloud-Native Infrastructure` · `Rust Systems Tooling`
 
-[Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
+[Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
 </div>
 
@@ -62,6 +62,22 @@ The successor to Turbo Flow — not more agents, but the harness that governs th
 | [<img src="https://raw.githubusercontent.com/adventurewave-labs/loopgen-rs/main/demo.gif" width="650" alt="loopgen driving an agentic loop with --dry-run">](https://github.com/adventurewave-labs/loopgen-rs) |
 |:---:|
 | *loopgen — agentic loops for Claude Code: wizard, TOML, bash export* |
+
+---
+
+## SaaS in Production
+
+Not just infrastructure — I ship complete products. [**Ancuria**](https://ancuria.com) is a real-estate intelligence SaaS I built and operate in production for the Mexican market: subscription billing with Mexican payments end-to-end (card, SPEI, and cash via Conekta, plus CFDI invoicing), multi-tenant team management with role-based access control, a three-level AI assistant that drafts listings in Spanish and English and answers client chats, RADAR — four financial calculators over 45+ daily market indicators — and a CRM that fills itself while agents sell. Bilingual (ES/EN), installable PWA, dark mode, web push. Free tier with unlimited listings; paid plans $249–$699 MXN/month.
+
+| Tool | Stars | Lang | Purpose |
+|---|---|---|---|
+| [**ancuria.com**](https://ancuria.com) | — | — | The live product — registrations, listings, AI assistant, RADAR quotes, and payments in production. *Private codebase — 399 merged PRs as of Sept 2026.* |
+| [**Deep-dive**](https://ancuria-deep-dive.vercel.app) | — | — | Technical walkthrough: publish once → the agent network → AI descriptions → RADAR quotes → close. |
+| [**Deep-dive 3D**](https://ancuria-deep-dive-3d.vercel.app) | — | — | The platform as an explorable 3D scene. |
+
+Next.js 16 · React 19 · Prisma · PostgreSQL · Conekta · Banxico
+
+---
 
 ## Developer Tooling
 
