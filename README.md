@@ -31,13 +31,14 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 ## The Turbo Rig Stack
 
-> A harness drives an agent. A rig drives your harnesses. — pre-release, [turbo-rig.com](https://turbo-rig.com)
+The successor to Turbo Flow — not more agents, but the harness that governs them: **Triangle + Spine + Loop**. Swappable lanes (builder / reviewer / reserve) under one shared constitution, a review gate **cross-checked across model families** with fail-closed verdicts, worktree isolation for parallel writers, git-versioned cross-session memory — and the merge button always in human hands.
 
-| Component | Lang | Purpose |
-|---|---|---|
-| **turbo-rig** — the Gate | Bash | Cross-model code-review gate. Builder ≠ reviewer: deterministic checks catch what's checkable for $0, a reviewer lane from a **different model family** applies judgment (quota-aware switching), and only a human merges. Cross-family review lifted pass rates 71.6% → 89.7%; same-family self-review barely helped. |
-| **turbo-rig** — the Spine | Bash / Python | An AGENTS.md constitution every harness reads natively, git-versioned agent memory, and 8 thin scripts. 0 daemons. Fail-closed everywhere. The same spine on a laptop, a VPS, and a Codespace. |
-| **turbo-rig** — the Loop | — | Spec → build → gate → PR → UAT → human merges → verify → memory captures the lesson. Every change, no exceptions — the loop that learns from its own verdicts. |
+| Tool | Stars | Lang | Purpose |
+|---|---|---|---|
+| [**turbo-rig**](https://github.com/marcuspat/turbo-rig) | — | Shell / Python | The full rig: a ten-law constitution, `review.sh` — the review gate with token accounting, `wt.sh` worktrees, `secret.sh` keychain, git-versioned `memory/`, specs and runbooks. One command installs and wires it all. *Private repo — beta.* |
+| [**turbo-rig.com**](https://turbo-rig.com) | — | — | The product page: the full methodology — why builder ≠ reviewer, the three execution planes (laptop / VPS / Codespaces), and the eight-station loop that ends in a human merge. |
+| [**Deep-dive**](https://turbo-rig-deep-dive.vercel.app) | — | — | Technical walkthrough with 11 SVG diagrams and an explorable 3D scene — triangle, spine, planes, and loop, section by section. |
+| [**Beta**](https://turbo-rig-beta.vercel.app) | — | — | Request access to the private repo during the beta. |
 
 ---
 
