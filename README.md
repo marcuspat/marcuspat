@@ -75,6 +75,16 @@ Not just infrastructure — I ship complete products. [**Ancuria**](https://ancu
 | [**Deep-dive**](https://ancuria-deep-dive.vercel.app) | — | — | Technical walkthrough: publish once → the agent network → AI descriptions → RADAR quotes → close. |
 | [**Deep-dive 3D**](https://ancuria-deep-dive-3d.vercel.app) | — | — | The platform as an explorable 3D scene. |
 
+### In motion
+
+<div align="center">
+
+<a href="https://ancuria.com"><img src="https://raw.githubusercontent.com/marcuspat/marcuspat/main/demos/ancuria-demo.gif" width="400" alt="Ancuria — a new user logs in on ancuria.com and tours the app: listing detail, Market Intelligence, RADAR payment-plan quoter, plans"></a>
+
+*Ancuria — a brand-new user on the live product: login, listing detail, Market Intelligence, the RADAR payment-plan quoter, plans*
+
+</div>
+
 Next.js 16 · React 19 · Prisma · PostgreSQL · Conekta · Banxico
 
 ---
