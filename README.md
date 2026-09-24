@@ -23,9 +23,21 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 `Autonomous Agent Orchestration` · `Multi-Agent Swarm Coordination` · `Cloud-Native Infrastructure` · `Rust Systems Tooling`
 
-[Turbo-Flow Stack](#the-turbo-flow-stack) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
+[Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
 </div>
+
+---
+
+## The Turbo Rig Stack
+
+> A harness drives an agent. A rig drives your harnesses. — pre-release, [turbo-rig.com](https://turbo-rig.com)
+
+| Component | Lang | Purpose |
+|---|---|---|
+| **turbo-rig** — the Gate | Bash | Cross-model code-review gate. Builder ≠ reviewer: deterministic checks catch what's checkable for $0, a reviewer lane from a **different model family** applies judgment (quota-aware switching), and only a human merges. Cross-family review lifted pass rates 71.6% → 89.7%; same-family self-review barely helped. |
+| **turbo-rig** — the Spine | Bash / Python | An AGENTS.md constitution every harness reads natively, git-versioned agent memory, and 8 thin scripts. 0 daemons. Fail-closed everywhere. The same spine on a laptop, a VPS, and a Codespace. |
+| **turbo-rig** — the Loop | — | Spec → build → gate → PR → UAT → human merges → verify → memory captures the lesson. Every change, no exceptions — the loop that learns from its own verdicts. |
 
 ---
 
