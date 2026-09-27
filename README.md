@@ -29,7 +29,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 ---
 
-## The Turbo Rig Stack
+## The Turbo Rig Stack - A Complete Agentic System
 
 The successor to Turbo Flow — not more agents, but the harness that governs them: **Triangle + Spine + Loop**. Swappable lanes (builder / reviewer / reserve) under one shared constitution, a review gate **cross-checked across model families** with fail-closed verdicts, worktree isolation for parallel writers, git-versioned cross-session memory — and the merge button always in human hands.
 
@@ -44,7 +44,7 @@ The successor to Turbo Flow — not more agents, but the harness that governs th
 
 ---
 
-## The Turbo-Flow Stack
+## The Turbo-Flow Stack - An Advanced Agentic Development Environment 
 
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
@@ -65,7 +65,7 @@ The successor to Turbo Flow — not more agents, but the harness that governs th
 
 ---
 
-## SaaS in Production
+## SaaS in Production - Real Estate Intelligence & AI Enhanced Functionality
 
 Not just infrastructure — I ship complete products. [**Ancuria**](https://ancuria.com) is a real-estate intelligence SaaS I built and operate in production for the Mexican market: subscription billing with Mexican payments end-to-end (card, SPEI, and cash via Conekta, plus CFDI invoicing), multi-tenant team management with role-based access control, a three-level AI assistant that drafts listings in Spanish and English and answers client chats, RADAR — four financial calculators over 45+ daily market indicators — and a CRM that fills itself while agents sell. Bilingual (ES/EN), installable PWA, dark mode, web push. Free tier with unlimited listings; paid plans $249–$699 MXN/month.
 
