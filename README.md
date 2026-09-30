@@ -25,7 +25,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
-[Ecosystem sites](#ecosystem-sites): Turbo Flow · Turbo Rig · Agentic Platform Engineering · Adventure on the Wave · Creando Tu Matrix
+[Ecosystem sites](#ecosystem-sites): Turbo Flow · Turbo Rig · Agentic Platform Engineering · Adventure on the Wave · Creando Tu Matrix · Turbo Flow University
 
 </div>
 
@@ -175,6 +175,8 @@ Experiments, proofs of concept, and agentic demos.
 - [adventureonthewave.com](https://www.adventureonthewave.com) — consulting: paid agentic AI & platform engineering sessions
 - [creandotumatrix.com](https://creandotumatrix.com) — LATAM affiliate: AI governance and production operation, en español
 - [turboflowuniversity.space](https://www.turboflowuniversity.space) — the free academy: Claude Flow / Turbo Flow tutorials and command references
+
+---
 
 ## Technical Reviews
 
