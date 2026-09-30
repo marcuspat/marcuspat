@@ -25,6 +25,8 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
+[Ecosystem sites](#ecosystem-sites): Turbo Flow · Turbo Rig · Agentic Platform Engineering · Adventure on the Wave · Creando Tu Matrix
+
 </div>
 
 ---
@@ -48,7 +50,7 @@ The successor to Turbo Flow — not more agents, but the harness that governs th
 
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
-| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ![](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&label=%E2%AD%90) | Shell / Python | Full agentic dev environment — 215+ MCP tools (via [Ruflo v3.5](https://github.com/ruvnet/ruflo) by [ruvnet](https://github.com/ruvnet)), cross-session memory (Beads), codebase knowledge graph (GitNexus), per-agent git-worktree isolation. One command bootstraps on DevPod, Codespaces, or Rackspace Spot. |
+| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ![](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&label=%E2%AD%90) | Shell / Python | Full agentic dev environment — 215+ MCP tools (via [Ruflo v3.5](https://github.com/ruvnet/ruflo) by [ruvnet](https://github.com/ruvnet)), cross-session memory (Beads), codebase knowledge graph (GitNexus), per-agent git-worktree isolation. One command bootstraps on DevPod, Codespaces, or Rackspace Spot. Site: [turboflow.space](https://turboflow.space) · Academy: [Turbo Flow University](https://www.turboflowuniversity.space) |
 | [turbo-flow-wizard](https://github.com/adventurewave-labs/turbo-flow-wizard) | ![](https://img.shields.io/github/stars/adventurewave-labs/turbo-flow-wizard?style=flat-square&label=%E2%AD%90) | Shell | Guided setup wizard for turbo-flow — interactive generator for project-specific CLAUDE.md configs. 12 app types, 7 methodologies, 19 feature sets. |
 | [loopgen](https://github.com/adventurewave-labs/loopgen-rs) | ![](https://img.shields.io/github/stars/adventurewave-labs/loopgen-rs?style=flat-square&label=%E2%AD%90) | Rust | Agentic loops for Claude Code — wizard, TOML configs, bash export, LOOP_STATUS protocol. Published on [crates.io](https://crates.io/crates/loopgen). |
 | [tf-verify.sh](https://github.com/marcuspat/turbo-flow/blob/main/devpods/tf-verify.sh) | — | Shell | 50+ quality gates across 12 verification phases — dependency integrity, deployment state, artifact validation, and environment checks. Bundled in turbo-flow `devpods/`. |
@@ -164,6 +166,15 @@ Experiments, proofs of concept, and agentic demos.
 | [loopgen](https://crates.io/crates/loopgen) | ![](https://img.shields.io/crates/d/loopgen?style=flat-square&label=%E2%86%93) | Agentic loops for Claude Code — wizard, TOML configs, bash export, LOOP_STATUS protocol |
 
 ---
+
+## Ecosystem Sites
+
+- [turboflow.space](https://turboflow.space) — Turbo Flow: the agentic development environment (open source, bilingual EN/ES)
+- [turbo-rig.com](https://turbo-rig.com) — the governed agentic coding rig: cross-model review gate, fail-closed verdicts, human-held merges
+- [agenticplatformengineering.com](https://www.agenticplatformengineering.com) — the practice of running agentic platforms in production: sense-think-act loop, golden paths, agent-native IDP
+- [adventureonthewave.com](https://www.adventureonthewave.com) — consulting: paid agentic AI & platform engineering sessions
+- [creandotumatrix.com](https://creandotumatrix.com) — LATAM affiliate: AI governance and production operation, en español
+- [turboflowuniversity.space](https://www.turboflowuniversity.space) — the free academy: Claude Flow / Turbo Flow tutorials and command references
 
 ## Technical Reviews
 
