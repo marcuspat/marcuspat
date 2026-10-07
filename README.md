@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Banner](banner.svg)](https://github.com/marcuspat)
+[![Banner](assets/banner.svg)](https://github.com/marcuspat)
 
 **Los Angeles, CA · Principal Agentic Engineer**
 
