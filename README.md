@@ -31,6 +31,14 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 ---
 
+<p align="center">
+  <img src="https://i.ibb.co/gLSsHZ4h/image-2026-10-06-090956626.png" alt="Agentics Foundation member badge" width="320">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/J6Mjk9J/Gemini-Generated-Image-s7ztzls7ztzls7zt.jpg" alt="Turbo Rig Analytics — commit pipeline overview" width="840">
+</p>
+
 ## The Turbo Rig Stack - A Complete Agentic System
 
 The successor to Turbo Flow — not more agents, but the harness that governs them: **Triangle + Spine + Loop**. Swappable lanes (builder / reviewer / reserve) under one shared constitution, a review gate **cross-checked across model families** with fail-closed verdicts, worktree isolation for parallel writers, git-versioned cross-session memory — and the merge button always in human hands.
