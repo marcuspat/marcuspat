@@ -32,11 +32,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/gLSsHZ4h/image-2026-10-06-090956626.png" alt="Agentics Foundation member badge" width="320">
-</p>
-
-<p align="center">
-  <img src="https://i.ibb.co/J6Mjk9J/Gemini-Generated-Image-s7ztzls7ztzls7zt.jpg" alt="Turbo Rig Analytics — commit pipeline overview" width="840">
+  <img src="assets/turbo-rig-analytics.jpg" alt="Turbo Rig Analytics — commit pipeline overview" width="840">
 </p>
 
 ## The Turbo Rig Stack - A Complete Agentic System
