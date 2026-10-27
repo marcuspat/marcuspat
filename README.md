@@ -115,6 +115,7 @@ Not just infrastructure — I ship complete products. [**Ancuria**](https://ancu
 | [**ancuria.com**](https://ancuria.com) | — | — | The live product — registrations, listings, AI assistant, RADAR quotes, and payments in production. *Private codebase — 399 merged PRs as of Sept 2026.* |
 | [**Deep-dive**](https://ancuria-deep-dive.vercel.app) | — | — | Technical walkthrough: publish once → the agent network → AI descriptions → RADAR quotes → close. |
 | [**Deep-dive 3D**](https://ancuria-deep-dive-3d.vercel.app) | — | — | The platform as an explorable 3D scene. |
+| [**ChatGPT plugin**](https://chatgpt.com/plugins/plugin_asdk_app_6add634eed0481919dbf3a1a5b6a26c8) | — | — | Ancuria's MCP tools, published in the ChatGPT plugin directory — property and market data answered inside ChatGPT. |
 
 ### In motion
 
