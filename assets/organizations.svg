@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="250" viewBox="0 0 840 250" role="img" aria-label="How we are organized: marcuspat at the root, adventurewave-labs for open-source tooling (turbo-flow, codescope, secret-scan, loopgen), creandotumatrix-labs for agentic AI and cloud-native work in Latin America (ancuria, en español).">
+<title>Organizations</title>
+<rect width="840" height="250" rx="12" fill="#04060c" stroke="#10161f"/>
+<g>
+<circle cx="60" cy="42" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="780" cy="38" r="1.4" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="2.9s" begin="-1.2s" repeatCount="indefinite"/></circle>
+<circle cx="420" cy="30" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="3.8s" begin="-2.2s" repeatCount="indefinite"/></circle>
+</g>
+<text x="36" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#22d3ee">HOW WE ARE ORGANIZED</text>
+
+<!-- subtree glows -->
+<rect x="8" y="108" width="360" height="122" rx="12" fill="#3fb950" opacity="0">
+<animate attributeName="opacity" values="0;0.05;0" dur="6s" repeatCount="indefinite"/>
+</rect>
+<rect x="472" y="108" width="360" height="122" rx="12" fill="#a78bfa" opacity="0">
+<animate attributeName="opacity" values="0;0.05;0" dur="6s" begin="-3s" repeatCount="indefinite"/>
+</rect>
+
+<!-- root -->
+<rect x="340" y="46" width="160" height="34" rx="17" fill="#0d1117" stroke="#22d3ee" stroke-width="1.6">
+<animate attributeName="stroke-opacity" values="1;0.45;1" dur="3s" repeatCount="indefinite"/>
+</rect>
+<text x="420" y="68" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="bold" fill="#e6edf3">marcuspat</text>
+
+<!-- connectors -->
+<path d="M420,80 C420,104 170,96 170,122" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-opacity="0.5" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.8s" repeatCount="indefinite"/></path>
+<path d="M420,80 C420,104 670,96 670,122" fill="none" stroke="#a78bfa" stroke-width="1.5" stroke-opacity="0.5" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.8s" begin="-0.9s" repeatCount="indefinite"/></path>
+
+<!-- adventurewave-labs -->
+<rect x="20" y="122" width="300" height="62" rx="10" fill="#0d1117" stroke="#3fb950" stroke-width="1.6"/>
+<text x="170" y="143" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="bold" fill="#3fb950">adventurewave-labs</text>
+<text x="170" y="159" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#8b949e">open-source tooling for the agentic</text>
+<text x="170" y="172" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#8b949e">AI ecosystem — the lab behind turbo-flow</text>
+
+<!-- creandotumatrix-labs -->
+<rect x="520" y="122" width="300" height="62" rx="10" fill="#0d1117" stroke="#a78bfa" stroke-width="1.6"/>
+<text x="670" y="143" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="bold" fill="#a78bfa">creandotumatrix-labs</text>
+<text x="670" y="159" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#8b949e">agentic AI &#38; cloud-native solutions</text>
+<text x="670" y="172" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#8b949e">for Latin America — en espa&#241;ol</text>
+
+<!-- child connectors -->
+<path d="M170,184 C170,196 70,192 70,206" fill="none" stroke="#30363d" stroke-dasharray="3 4"/>
+<path d="M170,184 C170,196 165,192 165,206" fill="none" stroke="#30363d" stroke-dasharray="3 4"/>
+<path d="M170,184 C170,196 257,192 257,206" fill="none" stroke="#30363d" stroke-dasharray="3 4"/>
+<path d="M170,184 C170,196 340,192 340,206" fill="none" stroke="#30363d" stroke-dasharray="3 4"/>
+<path d="M670,184 C670,196 566,192 566,206" fill="none" stroke="#30363d" stroke-dasharray="3 4"/>
+<path d="M670,184 C670,196 655,192 655,206" fill="none" stroke="#30363d" stroke-dasharray="3 4"/>
+<path d="M670,184 C670,196 748,192 748,206" fill="none" stroke="#30363d" stroke-dasharray="3 4"/>
+
+<!-- children -->
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#e6edf3" text-anchor="middle">
+<rect x="28" y="206" width="84" height="24" rx="8" fill="#0d1117" stroke="#3fb950" stroke-opacity="0.5"/><text x="70" y="221">turbo-flow</text>
+<rect x="125" y="206" width="80" height="24" rx="8" fill="#0d1117" stroke="#3fb950" stroke-opacity="0.5"/><text x="165" y="221">codescope</text>
+<rect x="213" y="206" width="88" height="24" rx="8" fill="#0d1117" stroke="#3fb950" stroke-opacity="0.5"/><text x="257" y="221">secret-scan</text>
+<rect x="305" y="206" width="70" height="24" rx="8" fill="#0d1117" stroke="#3fb950" stroke-opacity="0.5"/><text x="340" y="221">loopgen</text>
+<rect x="531" y="206" width="70" height="24" rx="8" fill="#0d1117" stroke="#a78bfa" stroke-opacity="0.5"/><text x="566" y="221">ancuria</text>
+<rect x="624" y="206" width="62" height="24" rx="8" fill="#0d1117" stroke="#a78bfa" stroke-opacity="0.5"/><text x="655" y="221">LATAM</text>
+<rect x="704" y="206" width="88" height="24" rx="8" fill="#0d1117" stroke="#a78bfa" stroke-opacity="0.5"/><text x="748" y="221">en espa&#241;ol</text>
+</g>
+</svg>

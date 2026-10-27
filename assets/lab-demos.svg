@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="The lab: experiments bubble up from a flask, flow through gitops, golden path, SRE pipeline and cost audit themes, and ship as live demos in the browser.">
+<title>Lab and Demos</title>
+<defs>
+<filter id="ldglow" x="-120%" y="-120%" width="340%" height="340%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="840" height="230" rx="12" fill="#04060c" stroke="#10161f"/>
+<g>
+<circle cx="300" cy="36" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="560" cy="200" r="1.4" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="2.9s" begin="-1.3s" repeatCount="indefinite"/></circle>
+<circle cx="60" cy="204" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="4s" begin="-2.1s" repeatCount="indefinite"/></circle>
+</g>
+<text x="36" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#8b949e">THE LAB &#183; EXPERIMENTS SHIP AS LIVE DEMOS</text>
+
+<!-- flask -->
+<path d="M106,62 L130,62 L130,94 L158,138 L78,138 L106,94 Z" fill="none" stroke="#a78bfa" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M92,118 L144,118 L158,138 L78,138 Z" fill="#a78bfa">
+<animate attributeName="opacity" values="0.15;0.3;0.15" dur="3s" repeatCount="indefinite"/>
+</path>
+<line x1="102" y1="62" x2="134" y2="62" stroke="#a78bfa" stroke-width="1.6"/>
+<circle cx="102" cy="130" r="2" fill="#a78bfa"><animate attributeName="cy" values="130;74" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.8;0" keyTimes="0;0.75;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="118" cy="132" r="2.6" fill="#a78bfa"><animate attributeName="cy" values="132;74" dur="2.8s" begin="-1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.8;0" keyTimes="0;0.75;1" dur="2.8s" begin="-1.2s" repeatCount="indefinite"/></circle>
+<circle cx="134" cy="128" r="2" fill="#a78bfa"><animate attributeName="cy" values="128;74" dur="2.5s" begin="-0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.8;0" keyTimes="0;0.75;1" dur="2.5s" begin="-0.6s" repeatCount="indefinite"/></circle>
+
+<!-- flow line -->
+<line x1="172" y1="132" x2="600" y2="132" stroke="#30363d" stroke-width="1.5" stroke-dasharray="5 8">
+<animate attributeName="stroke-dashoffset" from="0" to="-26" dur="1.8s" repeatCount="indefinite"/>
+</line>
+<g stroke="#58a6ff" stroke-width="1.5" fill="none" opacity="0.55">
+<polyline points="296,128 302,132 296,136"/>
+<polyline points="416,128 422,132 416,136"/>
+<polyline points="536,128 542,132 536,136"/>
+</g>
+
+<!-- theme chips -->
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#e6edf3" text-anchor="middle">
+<rect x="196" y="72" width="70" height="24" rx="8" fill="#0d1117" stroke="#58a6ff" stroke-opacity="0.5"/><text x="231" y="87">gitops</text>
+<rect x="278" y="72" width="100" height="24" rx="8" fill="#0d1117" stroke="#22d3ee" stroke-opacity="0.5"/><text x="328" y="87">golden path</text>
+<rect x="390" y="72" width="100" height="24" rx="8" fill="#0d1117" stroke="#3fb950" stroke-opacity="0.5"/><text x="440" y="87">SRE pipeline</text>
+<rect x="502" y="72" width="88" height="24" rx="8" fill="#0d1117" stroke="#f0883e" stroke-opacity="0.5"/><text x="546" y="87">cost audit</text>
+</g>
+<line x1="231" y1="96" x2="231" y2="126" stroke="#30363d" stroke-dasharray="3 4"/>
+<line x1="328" y1="96" x2="328" y2="126" stroke="#30363d" stroke-dasharray="3 4"/>
+<line x1="440" y1="96" x2="440" y2="126" stroke="#30363d" stroke-dasharray="3 4"/>
+<line x1="546" y1="96" x2="546" y2="126" stroke="#30363d" stroke-dasharray="3 4"/>
+
+<!-- browser with LIVE -->
+<rect x="620" y="66" width="184" height="122" rx="8" fill="#0d1117" stroke="#58a6ff" stroke-width="1.5"/>
+<line x1="620" y1="86" x2="804" y2="86" stroke="#30363d"/>
+<circle cx="632" cy="76" r="3" fill="#f85149"/>
+<circle cx="644" cy="76" r="3" fill="#f0883e"/>
+<circle cx="656" cy="76" r="3" fill="#3fb950"/>
+<rect x="754" y="70" width="40" height="16" rx="8" fill="none" stroke="#3fb950" stroke-width="1.2"/>
+<circle cx="764" cy="78" r="2.4" fill="#3fb950"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="780" y="81" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8" fill="#3fb950">LIVE</text>
+<rect x="634" y="98" width="120" height="7" rx="2" fill="#30363d"><animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/></rect>
+<rect x="634" y="113" width="92" height="7" rx="2" fill="#30363d"><animate attributeName="opacity" values="1;0.5;1" dur="2s" begin="-0.7s" repeatCount="indefinite"/></rect>
+<rect x="634" y="128" width="108" height="7" rx="2" fill="#30363d"><animate attributeName="opacity" values="1;0.5;1" dur="2s" begin="-1.4s" repeatCount="indefinite"/></rect>
+<rect x="634" y="148" width="70" height="9" rx="3" fill="none" stroke="#3fb950" stroke-opacity="0.6"/>
+<text x="669" y="155" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="7" fill="#3fb950">OPEN DEMO</text>
+
+<text x="420" y="212" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#8b949e">EXPERIMENT &#183; DEPLOY &#183; LIVE</text>
+</svg>

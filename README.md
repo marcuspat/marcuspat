@@ -133,6 +133,10 @@ Next.js 16 · React 19 · Prisma · PostgreSQL · Conekta · Banxico
 
 ## Developer Tooling
 
+<p align="center">
+  <img src="assets/developer-tooling.svg" width="840" alt="Developer tooling in Rust: Sentinel sweeps a radar for live system inspection, netrain rains packets with threat detection, cargo-forge stamps projects from typed templates.">
+</p>
+
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
 | [cargo-forge](https://github.com/marcuspat/cargo-forge) | ![](https://img.shields.io/github/stars/marcuspat/cargo-forge?style=flat-square&label=%E2%AD%90) | Rust | Rust project generator — 7 typed templates: CLI, API server, WebAssembly, game engine, embedded. |
@@ -159,6 +163,10 @@ More tooling — `secret-scan`, `codescope`, and the rest of the lab — lives a
 
 ### Lab / Demos
 
+<p align="center">
+  <img src="assets/lab-demos.svg" width="840" alt="The lab: experiments bubble up, flow through gitops, golden path, SRE pipeline and cost audit themes, and ship as live demos in the browser.">
+</p>
+
 Experiments, proofs of concept, and agentic demos.
 
 | Repo | What it explores |
@@ -175,6 +183,10 @@ Experiments, proofs of concept, and agentic demos.
 ---
 
 ## Published Rust Crates
+
+<p align="center">
+  <img src="assets/published-crates.svg" width="840" alt="Seven crates on a conveyor — netrain, k8s-netinspect, cargocrypt, secretscan, file-hasher, cargo-forge, loopgen — rolling off the line onto crates.io.">
+</p>
 
 7 crates on crates.io — download counts below update automatically.
 
@@ -209,6 +221,10 @@ Experiments, proofs of concept, and agentic demos.
 
 ## Ecosystem Sites
 
+<p align="center">
+  <img src="assets/ecosystem-sites.svg" width="840" alt="The ecosystem as a rail line with eight stops: turboflow.online, turbo-rig.com, agenticplatformengineering.com, adventureonthewave.com, creandotumatrix.com, turboflowuniversity.space, ancuria.mx, sdelic.org.">
+</p>
+
 - [turboflow.online](https://www.turboflow.online) — Turbo Flow: the agentic development environment (open source, bilingual EN/ES)
 - [turbo-rig.com](https://turbo-rig.com) — the governed agentic coding rig: cross-model review gate, fail-closed verdicts, human-held merges
 - [agenticplatformengineering.com](https://www.agenticplatformengineering.com) — the practice of running agentic platforms in production: sense-think-act loop, golden paths, agent-native IDP
@@ -242,6 +258,10 @@ Every demo GIF on this page is a recording of a real run — the turbo-flow inst
 ---
 
 ## Organizations
+
+<p align="center">
+  <img src="assets/organizations.svg" width="840" alt="How we are organized: marcuspat at the root; adventurewave-labs for open-source tooling (turbo-flow, codescope, secret-scan, loopgen); creandotumatrix-labs for agentic AI and cloud-native work in Latin America.">
+</p>
 
 | Org | Focus |
 |---|---|
