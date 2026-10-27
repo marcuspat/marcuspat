@@ -25,7 +25,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 [Entry points](#choose-your-entry-point) · [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
-[Ecosystem sites](#ecosystem-sites): Turbo Flow · Turbo Rig · Agentic Platform Engineering · Adventure on the Wave · Creando Tu Matrix · Turbo Flow University · Ancuria · sdelic.org
+[Ecosystem sites](#ecosystem-sites): Turbo Flow · Turbo Rig · Agentic Platform Engineering · Adventure on the Wave · Creando Tu Matrix · Ancuria
 
 </div>
 
@@ -41,12 +41,12 @@ One portfolio, many ways in — start with the problem you want to solve. Every 
 
 | I want to… | Start here | Then explore |
 |---|---|---|
-| Keep AI-written code out of `main` unreviewed | [**turbo-flow**](https://github.com/marcuspat/turbo-flow) — the rules layer: a fail-closed review gate cross-checked across model families, a written constitution, git-versioned memory | [turbo-rig.com](https://turbo-rig.com) — the successor rig (private beta) · [the 7-day numbers](https://turbo-rig-stats-only-sept14-21.vercel.app) |
+| Keep AI-written code out of `main` unreviewed | [**turbo-flow**](https://github.com/marcuspat/turbo-flow) — the rules layer: a fail-closed review gate cross-checked across model families, a written constitution, git-versioned memory | [turbo-rig.com](https://turbo-rig.com) — the successor rig (private beta) |
 | Let an agent operate a real system safely | [**Sentinel**](https://github.com/marcuspat/Sentinel) — Investigate → Plan → Approve → Act under a deny-by-default policy, with an operator gate and a hash-chained audit log | [codescope](https://github.com/adventurewave-labs/codescope) — the repo as a queryable graph, so the agent reads before it writes |
 | Stop secrets before they ship | [**secret-scan**](https://github.com/adventurewave-labs/secret-scan) — 50 patterns, entropy and obfuscation detection, `cargo install secretscan` | [cargocrypt](https://github.com/marcuspat/cargocrypt) · [the Homebrew tap](https://github.com/marcuspat/homebrew-tap) |
 | Install the Rust tooling | [**cargo-forge**](https://github.com/marcuspat/cargo-forge) — `cargo install cargo-forge`, 7 typed templates | [all 7 crates](#published-rust-crates) · [netrain](https://github.com/marcuspat/netrain) · [rustops](https://github.com/marcuspat/rustops) |
 | See a real product in production | [**ancuria.com**](https://ancuria.com) — bilingual real-estate SaaS: Mexican payments end-to-end, AI listing drafts, RADAR quotes | [the technical deep-dive](https://ancuria-deep-dive.vercel.app) |
-| Judge the operation by its evidence | [**7-day stats**](https://turbo-rig-stats-only-sept14-21.vercel.app) — 141 PRs merged, 868 gate verdicts, 79% of them REVISE | [Packt technical reviews](#technical-reviews), 2021–2026 · [the lab](#lab--demos) |
+| Judge the operation by its evidence | [**Packt technical reviews**](#technical-reviews), 2021–2026 — six titles reviewed across Rust, Go, Python and AI tooling | [the lab](#lab--demos) — deployed demos, not screenshots |
 | Hire me | [**adventureonthewave.com**](https://www.adventureonthewave.com) — paid agentic AI & platform engineering sessions | [LinkedIn](https://linkedin.com/in/marcuspatman) · [marcuspatman.space](https://marcuspatman.space) |
 
 `Gate` · `Map` · `Remember` · `Ship` · `Operate` — gate the diff (turbo-flow), map the codebase (codescope), remember across sessions (turbo-brain v2), ship the tool (7 crates), operate the product (Ancuria).
@@ -76,7 +76,6 @@ The successor to Turbo Flow — not more agents, but the harness that governs th
 | [**turbo-rig.com**](https://turbo-rig.com) | — | — | The product page: the full methodology — why builder ≠ reviewer, the three execution planes (laptop / VPS / Codespaces), and the eight-station loop that ends in a human merge. |
 | [**Deep-dive**](https://turbo-rig-deep-dive.vercel.app) | — | — | Technical walkthrough with 11 SVG diagrams — triangle, spine, planes, and loop, section by section. |
 | [**Deep-dive 3D**](https://turbo-rig-deep-dive-3d.vercel.app) | — | — | The same architecture as an explorable 3D scene — the loop, the triangle, the gate, the data gravity well, the planes, and the automation ring. |
-| [**7-Day Stats**](https://turbo-rig-stats-only-sept14-21.vercel.app) | — | — | One engine, seven days — Sept 14–21, 2026: 141 PRs merged across 5 repos, 868 gate verdicts (79% of them REVISE), 104 worktree lanes, 4.21B tokens, $416 total review spend. |
 | [**Beta**](https://turbo-rig-beta.vercel.app) | — | — | Request access to the private repo during the beta. |
 
 ---
@@ -116,6 +115,7 @@ Not just infrastructure — I ship complete products. [**Ancuria**](https://ancu
 | [**ancuria.com**](https://ancuria.com) | — | — | The live product — registrations, listings, AI assistant, RADAR quotes, and payments in production. *Private codebase — 399 merged PRs as of Sept 2026.* |
 | [**Deep-dive**](https://ancuria-deep-dive.vercel.app) | — | — | Technical walkthrough: publish once → the agent network → AI descriptions → RADAR quotes → close. |
 | [**Deep-dive 3D**](https://ancuria-deep-dive-3d.vercel.app) | — | — | The platform as an explorable 3D scene. |
+| [**ChatGPT plugin**](https://chatgpt.com/plugins/plugin_asdk_app_6add634eed0481919dbf3a1a5b6a26c8) | — | — | Ancuria's MCP tools, published in the ChatGPT plugin directory — property and market data answered inside ChatGPT. |
 
 ### In motion
 
@@ -222,7 +222,7 @@ Experiments, proofs of concept, and agentic demos.
 ## Ecosystem Sites
 
 <p align="center">
-  <img src="assets/ecosystem-sites.svg" width="840" alt="The ecosystem as a rail line with eight stops: turboflow.online, turbo-rig.com, agenticplatformengineering.com, adventureonthewave.com, creandotumatrix.com, turboflowuniversity.space, ancuria.mx, sdelic.org.">
+  <img src="assets/ecosystem-sites.svg" width="840" alt="The ecosystem as a rail line with six stops: turboflow.online, turbo-rig.com, agenticplatformengineering.com, adventureonthewave.com, creandotumatrix.com, ancuria.mx.">
 </p>
 
 - [turboflow.online](https://www.turboflow.online) — Turbo Flow: the agentic development environment (open source, bilingual EN/ES)
@@ -230,9 +230,7 @@ Experiments, proofs of concept, and agentic demos.
 - [agenticplatformengineering.com](https://www.agenticplatformengineering.com) — the practice of running agentic platforms in production: sense-think-act loop, golden paths, agent-native IDP
 - [adventureonthewave.com](https://www.adventureonthewave.com) — consulting: paid agentic AI & platform engineering sessions
 - [creandotumatrix.com](https://creandotumatrix.com) — LATAM affiliate: AI governance and production operation, en español
-- [turboflowuniversity.space](https://www.turboflowuniversity.space) — the free academy: Claude Flow / Turbo Flow tutorials and command references
 - [ancuria.mx](https://ancuria.mx) — the intelligent real-estate network for Puerto Vallarta and Riviera Nayarit: listings, MLS comparison, and city rental market data
-- [sdelic.org](https://www.sdelic.org) — 2001 web preservation: the original sdelic archive, ANSI art, and the Infocom showcase · [tHe sHacK bBS](https://theshackbbs.online) keeps the telnet BBS era alive
 
 ---
 
