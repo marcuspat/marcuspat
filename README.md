@@ -49,10 +49,10 @@ One portfolio, many ways in — start with the problem you want to solve. Every 
 | Judge the operation by its evidence | [**7-day stats**](https://turbo-rig-stats-only-sept14-21.vercel.app) — 141 PRs merged, 868 gate verdicts, 79% of them REVISE | [Packt technical reviews](#technical-reviews), 2021–2026 · [the lab](#lab--demos) |
 | Hire me | [**adventureonthewave.com**](https://www.adventureonthewave.com) — paid agentic AI & platform engineering sessions | [LinkedIn](https://linkedin.com/in/marcuspatman) · [marcuspatman.space](https://marcuspatman.space) |
 
-`Gate` · `Map` · `Remember` · `Ship` · `Operate` — gate the diff (turbo-flow), map the codebase (codescope), remember across sessions (git-versioned memory), ship the tool (7 crates), operate the product (Ancuria).
+`Gate` · `Map` · `Remember` · `Ship` · `Operate` — gate the diff (turbo-flow), map the codebase (codescope), remember across sessions (turbo-brain v2), ship the tool (7 crates), operate the product (Ancuria).
 
 <p align="center">
-  <img src="assets/verb-chain.svg" width="840" alt="Five stations in one pipeline: Gate the diff (turbo-flow), Map the codebase (codescope), Remember across sessions (git-versioned memory), Ship the tool (7 crates), Operate the product (Ancuria).">
+  <img src="assets/verb-chain.svg" width="840" alt="Five stations in one pipeline: Gate the diff (turbo-flow), Map the codebase (codescope), Remember across sessions (turbo-brain v2), Ship the tool (7 crates), Operate the product (Ancuria).">
 </p>
 
 ---
