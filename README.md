@@ -23,11 +23,29 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 `Autonomous Agent Orchestration` · `Multi-Agent Swarm Coordination` · `Cloud-Native Infrastructure` · `Rust Systems Tooling`
 
-[Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
+[Entry points](#choose-your-entry-point) · [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
 [Ecosystem sites](#ecosystem-sites): Turbo Flow · Turbo Rig · Agentic Platform Engineering · Adventure on the Wave · Creando Tu Matrix · Turbo Flow University · Ancuria · sdelic.org
 
 </div>
+
+---
+
+## Choose your entry point
+
+One portfolio, many ways in — start with the problem you want to solve. Every "Start here" is something you can actually open: a public repo, a live site, or a `cargo install`.
+
+| I want to… | Start here | Then explore |
+|---|---|---|
+| Keep AI-written code out of `main` unreviewed | [**turbo-flow**](https://github.com/marcuspat/turbo-flow) — the rules layer: a fail-closed review gate cross-checked across model families, a written constitution, git-versioned memory | [turbo-rig.com](https://turbo-rig.com) — the successor rig (private beta) · [the 7-day numbers](https://turbo-rig-stats-only-sept14-21.vercel.app) |
+| Let an agent operate a real system safely | [**Sentinel**](https://github.com/marcuspat/Sentinel) — Investigate → Plan → Approve → Act under a deny-by-default policy, with an operator gate and a hash-chained audit log | [codescope](https://github.com/adventurewave-labs/codescope) — the repo as a queryable graph, so the agent reads before it writes |
+| Stop secrets before they ship | [**secret-scan**](https://github.com/adventurewave-labs/secret-scan) — 50 patterns, entropy and obfuscation detection, `cargo install secretscan` | [cargocrypt](https://github.com/marcuspat/cargocrypt) · [the Homebrew tap](https://github.com/marcuspat/homebrew-tap) |
+| Install the Rust tooling | [**cargo-forge**](https://github.com/marcuspat/cargo-forge) — `cargo install cargo-forge`, 7 typed templates | [all 7 crates](#published-rust-crates) · [netrain](https://github.com/marcuspat/netrain) · [rustops](https://github.com/marcuspat/rustops) |
+| See a real product in production | [**ancuria.com**](https://ancuria.com) — bilingual real-estate SaaS: Mexican payments end-to-end, AI listing drafts, RADAR quotes | [the technical deep-dive](https://ancuria-deep-dive.vercel.app) |
+| Judge the operation by its evidence | [**7-day stats**](https://turbo-rig-stats-only-sept14-21.vercel.app) — 141 PRs merged, 868 gate verdicts, 79% of them REVISE | [Packt technical reviews](#technical-reviews), 2021–2026 · [the lab](#lab--demos) |
+| Hire me | [**adventureonthewave.com**](https://www.adventureonthewave.com) — paid agentic AI & platform engineering sessions | [LinkedIn](https://linkedin.com/in/marcuspatman) · [marcuspatman.space](https://marcuspatman.space) |
+
+`Gate` · `Map` · `Remember` · `Ship` · `Operate` — gate the diff (turbo-flow), map the codebase (codescope), remember across sessions (Beads), ship the tool (7 crates), operate the product (Ancuria).
 
 ---
 
@@ -194,6 +212,19 @@ Full list → [packt-technical-reviews](https://marcuspat.github.io/packt-techni
 
 ---
 
+## Read the numbers correctly
+
+| Signal | What it measures | What it does not prove |
+|---|---|---|
+| Stars | Attention | Installs, retention, or production use |
+| Crate downloads | Install events | Unique users — CI runs and reinstalls are counted |
+| Demo GIFs | A real run of the workload shown | Anything beyond that workload |
+| *Private repo — beta* badges | Honest current status | Shipping software, yet |
+
+Every demo GIF on this page is a recording of a real run — the turbo-flow install, the netrain packet log, the Ancuria user tour — not a mockup. Star and download counts are live shields, not curated claims. Repo links and the pinned set verified against the GitHub API **October 26, 2026 UTC**.
+
+---
+
 ## Organizations
 
 | Org | Focus |
@@ -205,4 +236,4 @@ Full list → [packt-technical-reviews](https://marcuspat.github.io/packt-techni
 
 `Rust` · `Python` · `Shell` · `Kubernetes` · `Terraform` · `ArgoCD` · `AWS` · `GCP` · `Azure` · `Claude Code` · `SPARC`
 
-📧 marcus@adventureonthewave.com · [LinkedIn](https://linkedin.com/in/marcuspatman) · [m[marcuspatman.space](https://marcuspatman.space) · [X @marcuspat](https://x.com/marcuspat) · [YouTube @marcuspatmanagentics](https://youtube.com/@marcuspatmanagentics)
+📧 marcus@adventureonthewave.com · [LinkedIn](https://linkedin.com/in/marcuspatman) · [marcuspatman.space](https://marcuspatman.space) · [X @marcuspat](https://x.com/marcuspat) · [YouTube @marcuspatmanagentics](https://youtube.com/@marcuspatmanagentics)
