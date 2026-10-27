@@ -41,12 +41,12 @@ One portfolio, many ways in — start with the problem you want to solve. Every 
 
 | I want to… | Start here | Then explore |
 |---|---|---|
-| Keep AI-written code out of `main` unreviewed | [**turbo-flow**](https://github.com/marcuspat/turbo-flow) — the rules layer: a fail-closed review gate cross-checked across model families, a written constitution, git-versioned memory | [turbo-rig.com](https://turbo-rig.com) — the successor rig (private beta) · [the 7-day numbers](https://turbo-rig-stats-only-sept14-21.vercel.app) |
+| Keep AI-written code out of `main` unreviewed | [**turbo-flow**](https://github.com/marcuspat/turbo-flow) — the rules layer: a fail-closed review gate cross-checked across model families, a written constitution, git-versioned memory | [turbo-rig.com](https://turbo-rig.com) — the successor rig (private beta) |
 | Let an agent operate a real system safely | [**Sentinel**](https://github.com/marcuspat/Sentinel) — Investigate → Plan → Approve → Act under a deny-by-default policy, with an operator gate and a hash-chained audit log | [codescope](https://github.com/adventurewave-labs/codescope) — the repo as a queryable graph, so the agent reads before it writes |
 | Stop secrets before they ship | [**secret-scan**](https://github.com/adventurewave-labs/secret-scan) — 50 patterns, entropy and obfuscation detection, `cargo install secretscan` | [cargocrypt](https://github.com/marcuspat/cargocrypt) · [the Homebrew tap](https://github.com/marcuspat/homebrew-tap) |
 | Install the Rust tooling | [**cargo-forge**](https://github.com/marcuspat/cargo-forge) — `cargo install cargo-forge`, 7 typed templates | [all 7 crates](#published-rust-crates) · [netrain](https://github.com/marcuspat/netrain) · [rustops](https://github.com/marcuspat/rustops) |
 | See a real product in production | [**ancuria.com**](https://ancuria.com) — bilingual real-estate SaaS: Mexican payments end-to-end, AI listing drafts, RADAR quotes | [the technical deep-dive](https://ancuria-deep-dive.vercel.app) |
-| Judge the operation by its evidence | [**7-day stats**](https://turbo-rig-stats-only-sept14-21.vercel.app) — 141 PRs merged, 868 gate verdicts, 79% of them REVISE | [Packt technical reviews](#technical-reviews), 2021–2026 · [the lab](#lab--demos) |
+| Judge the operation by its evidence | [**Packt technical reviews**](#technical-reviews), 2021–2026 — six titles reviewed across Rust, Go, Python and AI tooling | [the lab](#lab--demos) — deployed demos, not screenshots |
 | Hire me | [**adventureonthewave.com**](https://www.adventureonthewave.com) — paid agentic AI & platform engineering sessions | [LinkedIn](https://linkedin.com/in/marcuspatman) · [marcuspatman.space](https://marcuspatman.space) |
 
 `Gate` · `Map` · `Remember` · `Ship` · `Operate` — gate the diff (turbo-flow), map the codebase (codescope), remember across sessions (turbo-brain v2), ship the tool (7 crates), operate the product (Ancuria).
@@ -76,7 +76,6 @@ The successor to Turbo Flow — not more agents, but the harness that governs th
 | [**turbo-rig.com**](https://turbo-rig.com) | — | — | The product page: the full methodology — why builder ≠ reviewer, the three execution planes (laptop / VPS / Codespaces), and the eight-station loop that ends in a human merge. |
 | [**Deep-dive**](https://turbo-rig-deep-dive.vercel.app) | — | — | Technical walkthrough with 11 SVG diagrams — triangle, spine, planes, and loop, section by section. |
 | [**Deep-dive 3D**](https://turbo-rig-deep-dive-3d.vercel.app) | — | — | The same architecture as an explorable 3D scene — the loop, the triangle, the gate, the data gravity well, the planes, and the automation ring. |
-| [**7-Day Stats**](https://turbo-rig-stats-only-sept14-21.vercel.app) | — | — | One engine, seven days — Sept 14–21, 2026: 141 PRs merged across 5 repos, 868 gate verdicts (79% of them REVISE), 104 worktree lanes, 4.21B tokens, $416 total review spend. |
 | [**Beta**](https://turbo-rig-beta.vercel.app) | — | — | Request access to the private repo during the beta. |
 
 ---
