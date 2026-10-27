@@ -33,6 +33,10 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 ## Choose your entry point
 
+<p align="center">
+  <img src="assets/entry-points.svg" width="840" alt="One portfolio, many ways in — routes from a single intent to gate AI code, operate agents safely, scan secrets, install Rust tooling, see the live SaaS, weigh the evidence.">
+</p>
+
 One portfolio, many ways in — start with the problem you want to solve. Every "Start here" is something you can actually open: a public repo, a live site, or a `cargo install`.
 
 | I want to… | Start here | Then explore |
@@ -45,7 +49,11 @@ One portfolio, many ways in — start with the problem you want to solve. Every 
 | Judge the operation by its evidence | [**7-day stats**](https://turbo-rig-stats-only-sept14-21.vercel.app) — 141 PRs merged, 868 gate verdicts, 79% of them REVISE | [Packt technical reviews](#technical-reviews), 2021–2026 · [the lab](#lab--demos) |
 | Hire me | [**adventureonthewave.com**](https://www.adventureonthewave.com) — paid agentic AI & platform engineering sessions | [LinkedIn](https://linkedin.com/in/marcuspatman) · [marcuspatman.space](https://marcuspatman.space) |
 
-`Gate` · `Map` · `Remember` · `Ship` · `Operate` — gate the diff (turbo-flow), map the codebase (codescope), remember across sessions (Beads), ship the tool (7 crates), operate the product (Ancuria).
+`Gate` · `Map` · `Remember` · `Ship` · `Operate` — gate the diff (turbo-flow), map the codebase (codescope), remember across sessions (git-versioned memory), ship the tool (7 crates), operate the product (Ancuria).
+
+<p align="center">
+  <img src="assets/verb-chain.svg" width="840" alt="Five stations in one pipeline: Gate the diff (turbo-flow), Map the codebase (codescope), Remember across sessions (git-versioned memory), Ship the tool (7 crates), Operate the product (Ancuria).">
+</p>
 
 ---
 
@@ -55,11 +63,15 @@ One portfolio, many ways in — start with the problem you want to solve. Every 
 
 ## The Turbo Rig Stack - A Complete Agentic System
 
+<p align="center">
+  <img src="assets/turbo-rig-stack.svg" width="840" alt="Triangle + Spine + Loop: builder, reviewer and reserve lanes on a constitution spine, inside the loop. Cross-model gate, fail-closed verdicts, merge stays human.">
+</p>
+
 The successor to Turbo Flow — not more agents, but the harness that governs them: **Triangle + Spine + Loop**. Swappable lanes (builder / reviewer / reserve) under one shared constitution, a review gate **cross-checked across model families** with fail-closed verdicts, worktree isolation for parallel writers, git-versioned cross-session memory — and the merge button always in human hands.
 
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
-| [**turbo-rig**](https://github.com/marcuspat/turbo-rig) | — | Shell / Python | The full rig: a ten-law constitution, `review.sh` — the review gate with token accounting, `wt.sh` worktrees, `secret.sh` keychain, git-versioned `memory/`, specs and runbooks. One command installs and wires it all. *Private repo — beta.* |
+| [**turbo-rig**](https://github.com/marcuspat/turbo-rig) | — | Shell / Python | The full rig: an eleven-law constitution, `review.sh` — the review gate with token accounting, `wt.sh` worktrees, `secret.sh` keychain, git-versioned `memory/`, specs and runbooks. One command installs and wires it all. *Private repo — beta.* |
 | [**Turbo Brain v2**](https://github.com/adventurewave-labs/turbo-brain-v2) | — | Python / Shell | The rig's memory plane — an owned context vault: plain markdown in git, served read-only over MCP so a session starts with the context it needs instead of asking for it. Capture is a pure text PUT; schema lint, secret scan, client deny-list and agent-poison tripwires gate what enters, and budget-capped distill waves land as PRs under a protected main. *Private repo — v1.2.0.* |
 | [**turbo-rig.com**](https://turbo-rig.com) | — | — | The product page: the full methodology — why builder ≠ reviewer, the three execution planes (laptop / VPS / Codespaces), and the eight-station loop that ends in a human merge. |
 | [**Deep-dive**](https://turbo-rig-deep-dive.vercel.app) | — | — | Technical walkthrough with 11 SVG diagrams — triangle, spine, planes, and loop, section by section. |
@@ -71,9 +83,13 @@ The successor to Turbo Flow — not more agents, but the harness that governs th
 
 ## The Turbo-Flow Stack - An Advanced Agentic Development Environment 
 
+<p align="center">
+  <img src="assets/turbo-flow-stack.svg" width="840" alt="Turbo Flow, the rules layer: a builder from any family runs free deterministic checks, a reviewer from a different model family gates the change, the verdict flips REVISE to APPROVED, and only a human merges to main.">
+</p>
+
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
-| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ![](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&label=%E2%AD%90) | Shell / Python | Full agentic dev environment — 215+ MCP tools (via [Ruflo v3.5](https://github.com/ruvnet/ruflo) by [ruvnet](https://github.com/ruvnet)), cross-session memory (Beads), codebase knowledge graph (GitNexus), per-agent git-worktree isolation. One command bootstraps on DevPod, Codespaces, or Rackspace Spot. Site: [turboflow.online](https://www.turboflow.online) · Academy: [Turbo Flow University](https://www.turboflowuniversity.space) |
+| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ![](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&label=%E2%AD%90) | Shell / Python | The rules layer for AI-written code — rig-lite: a fail-closed cross-model review gate, a written constitution, git-versioned memory, worktree isolation, secrets. Any harness, any repo. v1–4 were the agentic dev environment — 215+ MCP tools via [Ruflo v3.5](https://github.com/ruvnet/ruflo) by [ruvnet](https://github.com/ruvnet). Site: [turboflow.online](https://www.turboflow.online) · Academy: [Turbo Flow University](https://www.turboflowuniversity.space) |
 | [turbo-flow-wizard](https://github.com/adventurewave-labs/turbo-flow-wizard) | ![](https://img.shields.io/github/stars/adventurewave-labs/turbo-flow-wizard?style=flat-square&label=%E2%AD%90) | Shell | Guided setup wizard for turbo-flow — interactive generator for project-specific CLAUDE.md configs. 12 app types, 7 methodologies, 19 feature sets. |
 | [loopgen](https://github.com/adventurewave-labs/loopgen-rs) | ![](https://img.shields.io/github/stars/adventurewave-labs/loopgen-rs?style=flat-square&label=%E2%AD%90) | Rust | Agentic loops for Claude Code — wizard, TOML configs, bash export, LOOP_STATUS protocol. Published on [crates.io](https://crates.io/crates/loopgen). |
 | [tf-verify.sh](https://github.com/marcuspat/turbo-flow/blob/main/devpods/tf-verify.sh) | — | Shell | 50+ quality gates across 12 verification phases — dependency integrity, deployment state, artifact validation, and environment checks. Bundled in turbo-flow `devpods/`. |

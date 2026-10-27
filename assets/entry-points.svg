@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="One portfolio, many ways in: routes from a single visitor intent to gate AI code, operate agents safely, scan secrets, install Rust tooling, see the live SaaS, weigh the evidence.">
+<title>Choose your entry point</title>
+<defs>
+<filter id="glow" x="-120%" y="-120%" width="340%" height="340%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="840" height="230" rx="12" fill="#04060c" stroke="#10161f"/>
+<g>
+<circle cx="70" cy="40" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="300" cy="22" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="2.9s" begin="-1.2s" repeatCount="indefinite"/></circle>
+<circle cx="520" cy="34" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="4.1s" begin="-2s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="52" r="1.4" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="3.1s" begin="-0.7s" repeatCount="indefinite"/></circle>
+<circle cx="420" cy="214" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="3.7s" begin="-2.6s" repeatCount="indefinite"/></circle>
+<circle cx="90" cy="196" r="1.4" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="2.7s" begin="-1.8s" repeatCount="indefinite"/></circle>
+</g>
+<text x="36" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#8b949e">ONE PORTFOLIO &#183; MANY WAYS IN</text>
+
+<!-- source node -->
+<g>
+<rect x="52" y="92" width="132" height="46" rx="10" fill="#0d1117" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.8">
+<animate attributeName="stroke-opacity" values="0.8;0.35;0.8" dur="3s" repeatCount="indefinite"/>
+</rect>
+<text x="118" y="120" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#e6edf3">I want to&#8230;</text>
+</g>
+
+<!-- lanes -->
+<path id="ln1" d="M184,115 C 300,115 420,28 556,28"  fill="none" stroke="#f0883e" stroke-width="1.5" stroke-opacity="0.5" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.7s" repeatCount="indefinite"/></path>
+<path id="ln2" d="M184,115 C 300,115 420,64 556,64"  fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.5" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="2.1s" repeatCount="indefinite"/></path>
+<path id="ln3" d="M184,115 C 300,115 420,100 556,100" fill="none" stroke="#f85149" stroke-width="1.5" stroke-opacity="0.5" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.5s" repeatCount="indefinite"/></path>
+<path id="ln4" d="M184,115 C 300,115 420,136 556,136" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-opacity="0.5" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="2.3s" repeatCount="indefinite"/></path>
+<path id="ln5" d="M184,115 C 300,115 420,172 556,172" fill="none" stroke="#a78bfa" stroke-width="1.5" stroke-opacity="0.5" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.9s" repeatCount="indefinite"/></path>
+<path id="ln6" d="M184,115 C 300,115 420,202 556,202" fill="none" stroke="#58a6ff" stroke-width="1.5" stroke-opacity="0.5" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="2.5s" repeatCount="indefinite"/></path>
+
+<!-- traveling pulses -->
+<circle r="3" fill="#f0883e" filter="url(#glow)"><animateMotion dur="2.4s" begin="-0.2s" repeatCount="indefinite" path="M184,115 C 300,115 420,28 556,28"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="-0.2s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#22d3ee" filter="url(#glow)"><animateMotion dur="2.4s" begin="-0.6s" repeatCount="indefinite" path="M184,115 C 300,115 420,64 556,64"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="-0.6s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#f85149" filter="url(#glow)"><animateMotion dur="2.4s" begin="-1.0s" repeatCount="indefinite" path="M184,115 C 300,115 420,100 556,100"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="-1.0s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#3fb950" filter="url(#glow)"><animateMotion dur="2.4s" begin="-1.4s" repeatCount="indefinite" path="M184,115 C 300,115 420,136 556,136"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="-1.4s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#a78bfa" filter="url(#glow)"><animateMotion dur="2.4s" begin="-1.8s" repeatCount="indefinite" path="M184,115 C 300,115 420,172 556,172"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="-1.8s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#58a6ff" filter="url(#glow)"><animateMotion dur="2.4s" begin="-2.2s" repeatCount="indefinite" path="M184,115 C 300,115 420,202 556,202"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="-2.2s" repeatCount="indefinite"/></circle>
+
+<!-- destination chips -->
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#e6edf3">
+<rect x="560" y="15" width="248" height="26" rx="8" fill="#0d1117" stroke="#f0883e" stroke-opacity="0.45"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="6s" begin="0s" repeatCount="indefinite"/></rect>
+<rect x="568" y="24" width="8" height="8" rx="2" fill="#f0883e"/>
+<text x="584" y="32">gate AI-written code</text>
+
+<rect x="560" y="51" width="248" height="26" rx="8" fill="#0d1117" stroke="#22d3ee" stroke-opacity="0.45"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="6s" begin="1s" repeatCount="indefinite"/></rect>
+<rect x="568" y="60" width="8" height="8" rx="2" fill="#22d3ee"/>
+<text x="584" y="68">operate agents safely</text>
+
+<rect x="560" y="87" width="248" height="26" rx="8" fill="#0d1117" stroke="#f85149" stroke-opacity="0.45"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="6s" begin="2s" repeatCount="indefinite"/></rect>
+<rect x="568" y="96" width="8" height="8" rx="2" fill="#f85149"/>
+<text x="584" y="104">scan secrets</text>
+
+<rect x="560" y="123" width="248" height="26" rx="8" fill="#0d1117" stroke="#3fb950" stroke-opacity="0.45"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="6s" begin="3s" repeatCount="indefinite"/></rect>
+<rect x="568" y="132" width="8" height="8" rx="2" fill="#3fb950"/>
+<text x="584" y="140">install rust tooling</text>
+
+<rect x="560" y="159" width="248" height="26" rx="8" fill="#0d1117" stroke="#a78bfa" stroke-opacity="0.45"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="6s" begin="4s" repeatCount="indefinite"/></rect>
+<rect x="568" y="168" width="8" height="8" rx="2" fill="#a78bfa"/>
+<text x="584" y="176">see the live SaaS</text>
+
+<rect x="560" y="195" width="248" height="26" rx="8" fill="#0d1117" stroke="#58a6ff" stroke-opacity="0.45"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="6s" begin="5s" repeatCount="indefinite"/></rect>
+<rect x="568" y="204" width="8" height="8" rx="2" fill="#58a6ff"/>
+<text x="584" y="212">weigh the evidence</text>
+</g>
+</svg>
