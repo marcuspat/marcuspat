@@ -84,7 +84,7 @@ The successor to Turbo Flow — not more agents, but the harness that governs th
 ## The Turbo-Flow Stack - An Advanced Agentic Development Environment 
 
 <p align="center">
-  <img src="assets/turbo-flow-stack.svg" width="840" alt="Turbo Flow, the rules layer: a builder from any family runs deterministic checks, a reviewer from a different model family gates the change, the verdict flips REVISE to APPROVED, and only a human merges to main.">
+  <img src="assets/turbo-flow-stack.svg" width="840" alt="Turbo Flow, the rules layer: a builder from any family runs free deterministic checks, a reviewer from a different model family gates the change, the verdict flips REVISE to APPROVED, and only a human merges to main.">
 </p>
 
 | Tool | Stars | Lang | Purpose |
