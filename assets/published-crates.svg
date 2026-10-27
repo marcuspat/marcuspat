@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="Seven crates on a conveyor: netrain, k8s-netinspect, cargocrypt, secretscan, file-hasher, cargo-forge and loopgen roll off the line onto crates.io.">
+<title>Published Rust Crates</title>
+<rect width="840" height="230" rx="12" fill="#04060c" stroke="#10161f"/>
+<g>
+<circle cx="80" cy="38" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="430" cy="30" r="1.4" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="2.9s" begin="-1.4s" repeatCount="indefinite"/></circle>
+<circle cx="790" cy="200" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="3.7s" begin="-2.3s" repeatCount="indefinite"/></circle>
+</g>
+<text x="36" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#a78bfa">SEVEN CRATES &#183; CRATES.IO/MARCUSPAT</text>
+
+<!-- rust gear -->
+<g transform="translate(772,52)" stroke="#f0883e" stroke-width="1.6" fill="none">
+<circle r="8"/>
+<line x1="0" y1="-11" x2="0" y2="-14"/><line x1="8.5" y1="8.5" x2="10.8" y2="10.8"/><line x1="11" y1="0" x2="14" y2="0"/><line x1="-8.5" y1="8.5" x2="-10.8" y2="10.8"/><line x1="0" y1="11" x2="0" y2="14"/><line x1="-8.5" y1="-8.5" x2="-10.8" y2="-10.8"/><line x1="8.5" y1="-8.5" x2="10.8" y2="-10.8"/><line x1="-11" y1="0" x2="-14" y2="0"/>
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" additive="sum" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+</g>
+
+<!-- belt -->
+<rect x="36" y="146" width="768" height="7" rx="3" fill="#161b22"/>
+<line x1="40" y1="149.5" x2="800" y2="149.5" stroke="#30363d" stroke-width="2" stroke-dasharray="12 16">
+<animate attributeName="stroke-dashoffset" from="0" to="-56" dur="1.6s" repeatCount="indefinite"/>
+</line>
+<g fill="#0d1117" stroke="#30363d" stroke-width="1.5">
+<circle cx="120" cy="160" r="7" stroke-dasharray="3 4"><animateTransform attributeName="transform" type="rotate" from="0 120 160" to="360 120 160" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="300" cy="160" r="7" stroke-dasharray="3 4"><animateTransform attributeName="transform" type="rotate" from="0 300 160" to="360 300 160" dur="3s" begin="-1s" repeatCount="indefinite"/></circle>
+<circle cx="480" cy="160" r="7" stroke-dasharray="3 4"><animateTransform attributeName="transform" type="rotate" from="0 480 160" to="360 480 160" dur="3s" begin="-2s" repeatCount="indefinite"/></circle>
+<circle cx="660" cy="160" r="7" stroke-dasharray="3 4"><animateTransform attributeName="transform" type="rotate" from="0 660 160" to="360 660 160" dur="3s" begin="-0.5s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- highlight sweep -->
+<rect x="44" y="82" width="28" height="70" fill="#e6edf3" opacity="0.06">
+<animate attributeName="x" values="44;706;44" dur="9s" repeatCount="indefinite"/>
+</rect>
+
+<!-- crates -->
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" fill="#e6edf3" text-anchor="middle">
+<g><rect x="44" y="88" width="94" height="58" rx="6" fill="#0d1117" stroke="#22d3ee" stroke-width="1.5"/><line x1="56" y1="103" x2="126" y2="103" stroke="#22d3ee" stroke-opacity="0.4"/><text x="91" y="127">netrain</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2s" repeatCount="indefinite"/></g>
+<g><rect x="152" y="88" width="94" height="58" rx="6" fill="#0d1117" stroke="#58a6ff" stroke-width="1.5"/><line x1="164" y1="103" x2="234" y2="103" stroke="#58a6ff" stroke-opacity="0.4"/><text x="199" y="127">k8s-netinspect</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2s" begin="-0.3s" repeatCount="indefinite"/></g>
+<g><rect x="260" y="88" width="94" height="58" rx="6" fill="#0d1117" stroke="#f85149" stroke-width="1.5"/><line x1="272" y1="103" x2="342" y2="103" stroke="#f85149" stroke-opacity="0.4"/><text x="307" y="127">cargocrypt</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2s" begin="-0.6s" repeatCount="indefinite"/></g>
+<g><rect x="368" y="88" width="94" height="58" rx="6" fill="#0d1117" stroke="#f0883e" stroke-width="1.5"/><line x1="380" y1="103" x2="450" y2="103" stroke="#f0883e" stroke-opacity="0.4"/><text x="415" y="127">secretscan</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2s" begin="-0.9s" repeatCount="indefinite"/></g>
+<g><rect x="476" y="88" width="94" height="58" rx="6" fill="#0d1117" stroke="#3fb950" stroke-width="1.5"/><line x1="488" y1="103" x2="558" y2="103" stroke="#3fb950" stroke-opacity="0.4"/><text x="523" y="127">file-hasher</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2s" begin="-1.2s" repeatCount="indefinite"/></g>
+<g><rect x="584" y="88" width="94" height="58" rx="6" fill="#0d1117" stroke="#a78bfa" stroke-width="1.5"/><line x1="596" y1="103" x2="666" y2="103" stroke="#a78bfa" stroke-opacity="0.4"/><text x="631" y="127">cargo-forge</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2s" begin="-1.5s" repeatCount="indefinite"/></g>
+<g><rect x="692" y="88" width="94" height="58" rx="6" fill="#0d1117" stroke="#22d3ee" stroke-width="1.5"/><line x1="704" y1="103" x2="774" y2="103" stroke="#22d3ee" stroke-opacity="0.4"/><text x="739" y="127">loopgen</text><animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2s" begin="-1.8s" repeatCount="indefinite"/></g>
+</g>
+
+<text x="420" y="212" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#8b949e">CARGO INSTALL &#183; ANY OF THEM</text>
+</svg>

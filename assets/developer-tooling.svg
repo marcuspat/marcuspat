@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="240" viewBox="0 0 840 240" role="img" aria-label="Developer tooling in Rust: Sentinel sweeps a radar for live system inspection, netrain rains packets with threat detection, cargo-forge stamps projects from typed templates.">
+<title>Developer Tooling</title>
+<defs>
+<filter id="dtglow" x="-120%" y="-120%" width="340%" height="340%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect width="840" height="240" rx="12" fill="#04060c" stroke="#10161f"/>
+<g>
+<circle cx="60" cy="40" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="3.3s" repeatCount="indefinite"/></circle>
+<circle cx="790" cy="36" r="1.4" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="2.8s" begin="-1.1s" repeatCount="indefinite"/></circle>
+<circle cx="812" cy="214" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="3.9s" begin="-2.2s" repeatCount="indefinite"/></circle>
+</g>
+<text x="36" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#8b949e">DEVELOPER TOOLING &#183; RUST</text>
+
+<!-- Sentinel: radar -->
+<rect x="36" y="50" width="232" height="150" rx="10" fill="#0d1117" stroke="#22d3ee" stroke-opacity="0.3"/>
+<circle cx="152" cy="118" r="46" fill="none" stroke="#30363d"/>
+<circle cx="152" cy="118" r="30" fill="none" stroke="#30363d" stroke-opacity="0.7"/>
+<circle cx="152" cy="118" r="14" fill="none" stroke="#30363d" stroke-opacity="0.5"/>
+<g>
+<path d="M152,118 L152,72 A46,46 0 0,1 184,85 Z" fill="#22d3ee" opacity="0.14"/>
+<line x1="152" y1="118" x2="152" y2="72" stroke="#22d3ee" stroke-width="1.6"/>
+<animateTransform attributeName="transform" type="rotate" from="0 152 118" to="360 152 118" dur="4s" repeatCount="indefinite"/>
+</g>
+<circle cx="136" cy="100" r="2.6" fill="#3fb950"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="-0.5s" repeatCount="indefinite"/></circle>
+<circle cx="170" cy="132" r="2.6" fill="#3fb950"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="-1.3s" repeatCount="indefinite"/></circle>
+<text x="152" y="190" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#22d3ee">Sentinel</text>
+
+<!-- netrain: packet rain -->
+<rect x="304" y="50" width="232" height="150" rx="10" fill="#0d1117" stroke="#3fb950" stroke-opacity="0.3"/>
+<g>
+<rect x="336" y="60" width="3" height="9" fill="#3fb950"><animate attributeName="y" values="60;168" dur="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="1.4s" repeatCount="indefinite"/></rect>
+<rect x="366" y="60" width="3" height="9" fill="#58a6ff"><animate attributeName="y" values="60;168" dur="1.8s" begin="-0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="1.8s" begin="-0.6s" repeatCount="indefinite"/></rect>
+<rect x="396" y="60" width="3" height="9" fill="#3fb950"><animate attributeName="y" values="60;168" dur="1.2s" begin="-0.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="1.2s" begin="-0.3s" repeatCount="indefinite"/></rect>
+<rect x="426" y="60" width="3" height="9" fill="#3fb950"><animate attributeName="y" values="60;168" dur="1.7s" begin="-1s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="1.7s" begin="-1s" repeatCount="indefinite"/></rect>
+<rect x="456" y="60" width="3" height="9" fill="#58a6ff"><animate attributeName="y" values="60;168" dur="1.5s" begin="-0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="1.5s" begin="-0.8s" repeatCount="indefinite"/></rect>
+<rect x="486" y="60" width="3" height="9" fill="#f85149"><animate attributeName="y" values="60;168" dur="1.6s" begin="-0.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="1.6s" begin="-0.2s" repeatCount="indefinite"/></rect>
+</g>
+<circle cx="487" cy="168" r="3" fill="none" stroke="#f85149"><animate attributeName="r" values="2;12" dur="1.6s" begin="-0.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="1.6s" begin="-0.2s" repeatCount="indefinite"/></circle>
+<line x1="322" y1="172" x2="520" y2="172" stroke="#30363d"/>
+<text x="420" y="190" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3fb950">netrain</text>
+
+<!-- cargo-forge: stamp the template -->
+<rect x="572" y="50" width="232" height="150" rx="10" fill="#0d1117" stroke="#f0883e" stroke-opacity="0.3"/>
+<rect x="600" y="78" width="14" height="10" rx="2" fill="none" stroke="#58a6ff"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="620" y="96" width="14" height="10" rx="2" fill="none" stroke="#58a6ff"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="-0.8s" repeatCount="indefinite"/></rect>
+<rect x="600" y="114" width="14" height="10" rx="2" fill="none" stroke="#58a6ff"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" begin="-1.6s" repeatCount="indefinite"/></rect>
+<rect x="664" y="126" width="52" height="42" rx="4" fill="none" stroke="#f0883e" stroke-width="1.6"/>
+<line x1="664" y1="140" x2="716" y2="140" stroke="#f0883e" stroke-opacity="0.5"/>
+<g>
+<rect x="675" y="96" width="30" height="16" rx="3" fill="#0d1117" stroke="#f0883e" stroke-width="1.6"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 22;0 0" keyTimes="0;0.45;1" dur="1.1s" repeatCount="indefinite"/>
+</g>
+<circle cx="684" cy="120" r="1.6" fill="#f0883e"><animate attributeName="opacity" values="0;1;0" dur="1.1s" begin="-0.45s" repeatCount="indefinite"/></circle>
+<circle cx="676" cy="124" r="1.3" fill="#f0883e"><animate attributeName="opacity" values="0;1;0" dur="1.1s" begin="-0.5s" repeatCount="indefinite"/></circle>
+<circle cx="692" cy="123" r="1.3" fill="#f0883e"><animate attributeName="opacity" values="0;1;0" dur="1.1s" begin="-0.4s" repeatCount="indefinite"/></circle>
+<text x="688" y="190" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f0883e">cargo-forge</text>
+</svg>
