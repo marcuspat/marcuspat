@@ -23,7 +23,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 `Autonomous Agent Orchestration` · `Multi-Agent Swarm Coordination` · `Cloud-Native Infrastructure` · `Rust Systems Tooling`
 
-[Entry points](#choose-your-entry-point) · [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
+[Entry points](#choose-your-entry-point) · [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production---real-estate-intelligence--ai-enhanced-functionality) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
 [Ecosystem sites](#ecosystem-sites): Turbo Flow · Turbo Rig · Agentic Platform Engineering · Adventure on the Wave · Creando Tu Matrix · Ancuria
 
@@ -46,7 +46,7 @@ One portfolio, many ways in — start with the problem you want to solve. Every 
 | Stop secrets before they ship | [**secret-scan**](https://github.com/adventurewave-labs/secret-scan) — 50 patterns, entropy and obfuscation detection, `cargo install secretscan` | [cargocrypt](https://github.com/marcuspat/cargocrypt) · [the Homebrew tap](https://github.com/marcuspat/homebrew-tap) |
 | Install the Rust tooling | [**cargo-forge**](https://github.com/marcuspat/cargo-forge) — `cargo install cargo-forge`, 7 typed templates | [all 7 crates](#published-rust-crates) · [netrain](https://github.com/marcuspat/netrain) · [rustops](https://github.com/marcuspat/rustops) |
 | See a real product in production | [**ancuria.com**](https://ancuria.com) — bilingual real-estate SaaS: Mexican payments end-to-end, AI listing drafts, RADAR quotes | [the technical deep-dive](https://ancuria-deep-dive.vercel.app) |
-| Judge the operation by its evidence | [**Packt technical reviews**](#technical-reviews), 2021–2026 — six titles reviewed across Rust, Go, Python and AI tooling | [the lab](#lab--demos) — deployed demos, not screenshots |
+| Judge the operation by its evidence | [**Packt technical reviews**](#technical-reviews), 2021–2026 — seven titles reviewed across Rust, Go, Python and AI tooling | [the lab](#lab--demos) — deployed demos, not screenshots |
 | Hire me | [**adventureonthewave.com**](https://www.adventureonthewave.com) — paid agentic AI & platform engineering sessions | [LinkedIn](https://linkedin.com/in/marcuspatman) · [marcuspatman.space](https://marcuspatman.space) |
 
 `Gate` · `Map` · `Remember` · `Ship` · `Operate` — gate the diff (turbo-flow), map the codebase (codescope), remember across sessions (turbo-brain v2), ship the tool (7 crates), operate the product (Ancuria).
@@ -88,7 +88,7 @@ The successor to Turbo Flow — not more agents, but the harness that governs th
 
 | Tool | Stars | Lang | Purpose |
 |---|---|---|---|
-| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ![](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&label=%E2%AD%90) | Shell / Python | The rules layer for AI-written code — rig-lite: a fail-closed cross-model review gate, a written constitution, git-versioned memory, worktree isolation, secrets. Any harness, any repo. v1–4 were the agentic dev environment — 215+ MCP tools via [Ruflo v3.5](https://github.com/ruvnet/ruflo) by [ruvnet](https://github.com/ruvnet). Site: [turboflow.online](https://www.turboflow.online) · Academy: [Turbo Flow University](https://www.turboflowuniversity.space) |
+| [turbo-flow](https://github.com/marcuspat/turbo-flow) | ![](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&label=%E2%AD%90) | Shell / Python | The rules layer for AI-written code — rig-lite: a fail-closed cross-model review gate, a written constitution, git-versioned memory, worktree isolation, secrets. Any harness, any repo. v1–4 were the agentic dev environment — 215+ MCP tools via [Ruflo v3.5](https://github.com/ruvnet/ruflo) by [ruvnet](https://github.com/ruvnet). Site: [turboflow.online](https://www.turboflow.online) |
 | [turbo-flow-wizard](https://github.com/adventurewave-labs/turbo-flow-wizard) | ![](https://img.shields.io/github/stars/adventurewave-labs/turbo-flow-wizard?style=flat-square&label=%E2%AD%90) | Shell | Guided setup wizard for turbo-flow — interactive generator for project-specific CLAUDE.md configs. 12 app types, 7 methodologies, 19 feature sets. |
 | [loopgen](https://github.com/adventurewave-labs/loopgen-rs) | ![](https://img.shields.io/github/stars/adventurewave-labs/loopgen-rs?style=flat-square&label=%E2%AD%90) | Rust | Agentic loops for Claude Code — wizard, TOML configs, bash export, LOOP_STATUS protocol. Published on [crates.io](https://crates.io/crates/loopgen). |
 | [tf-verify.sh](https://github.com/marcuspat/turbo-flow/blob/main/devpods/tf-verify.sh) | — | Shell | 50+ quality gates across 12 verification phases — dependency integrity, deployment state, artifact validation, and environment checks. Bundled in turbo-flow `devpods/`. |
@@ -236,7 +236,7 @@ Experiments, proofs of concept, and agentic demos.
 
 ## Technical Reviews
 
-Technical reviewer for [Packt Publishing](https://www.packtpub.com) since 2021 — six titles, two credited in print. Most recent: *Operational AI with Docker* (2026), *Microsoft Foundry in Action* (2026), and *Claude Beyond the Prompt* (Oct 2026, credited).
+Technical reviewer for [Packt Publishing](https://www.packtpub.com) since 2021 — seven titles, two credited in print. Most recent: *Operational AI with Docker* (2026), *Microsoft Foundry in Action* (2026), *Claude Beyond the Prompt* (Oct 2026, credited), and *Loop Engineering with Claude Code* (2026).
 
 Full list → [packt-technical-reviews](https://marcuspat.github.io/packt-technical-reviews/)
 
