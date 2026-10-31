@@ -76,7 +76,6 @@ The successor to Turbo Flow — not more agents, but the harness that governs th
 | [**turbo-rig.com**](https://turbo-rig.com) | — | — | The product page: the full methodology — why builder ≠ reviewer, the three execution planes (laptop / VPS / Codespaces), and the eight-station loop that ends in a human merge. |
 | [**Deep-dive**](https://turbo-rig-deep-dive.vercel.app) | — | — | Technical walkthrough with 11 SVG diagrams — triangle, spine, planes, and loop, section by section. |
 | [**Deep-dive 3D**](https://turbo-rig-deep-dive-3d.vercel.app) | — | — | The same architecture as an explorable 3D scene — the loop, the triangle, the gate, the data gravity well, the planes, and the automation ring. |
-| [**Beta**](https://turbo-rig-beta.vercel.app) | — | — | Request access to the private repo during the beta. |
 
 ---
 
