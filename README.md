@@ -25,7 +25,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 [Entry points](#choose-your-entry-point) · [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production---real-estate-intelligence--ai-enhanced-functionality) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
-[Ecosystem sites](#ecosystem-sites): Turbo Flow · Turbo Rig · Agentic Platform Engineering · Adventure on the Wave · Creando Tu Matrix · Ancuria
+[Ecosystem sites](#ecosystem-sites): Adventure Wave Labs · Turbo Flow · Turbo Rig · Agentic Platform Engineering · Adventure on the Wave · Creando Tu Matrix · Ancuria
 
 </div>
 
@@ -220,9 +220,10 @@ Experiments, proofs of concept, and agentic demos.
 ## Ecosystem Sites
 
 <p align="center">
-  <img src="assets/ecosystem-sites.svg" width="840" alt="The ecosystem as a rail line with six stops: turboflow.online, turbo-rig.com, agenticplatformengineering.com, adventureonthewave.com, creandotumatrix.com, ancuria.mx.">
+  <img src="assets/ecosystem-sites.svg" width="840" alt="The ecosystem as a rail line with seven stops: adventurewavelabs.space, turboflow.online, turbo-rig.com, agenticplatformengineering.com, adventureonthewave.com, creandotumatrix.com, ancuria.mx.">
 </p>
 
+- [adventurewavelabs.space](https://www.adventurewavelabs.space) — Adventure Wave Labs: the research lab behind Turbo Flow and Turbo Rig, with its labs, initiatives, and repos
 - [turboflow.online](https://www.turboflow.online) — Turbo Flow: the agentic development environment (open source, bilingual EN/ES)
 - [turbo-rig.com](https://turbo-rig.com) — the governed agentic coding rig: cross-model review gate, fail-closed verdicts, human-held merges
 - [agenticplatformengineering.com](https://www.agenticplatformengineering.com) — the practice of running agentic platforms in production: sense-think-act loop, golden paths, agent-native IDP
