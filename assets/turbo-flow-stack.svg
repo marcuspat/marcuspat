@@ -14,7 +14,7 @@
 <circle cx="770" cy="226" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="4.1s" begin="-2.4s" repeatCount="indefinite"/></circle>
 <circle cx="120" cy="216" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.8;0.08" dur="3.6s" begin="-0.9s" repeatCount="indefinite"/></circle>
 </g>
-<text x="36" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#22d3ee">TURBO-FLOW &#183; THE RULES LAYER</text>
+<text x="36" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#22d3ee">TURBO-FLOW &#183; A DEVELOPER TOOL</text>
 
 <!-- connectors -->
 <line x1="206" y1="116" x2="246" y2="116" stroke="#30363d" stroke-width="1.5" stroke-dasharray="4 6"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1.4s" repeatCount="indefinite"/></line>
