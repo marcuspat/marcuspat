@@ -236,9 +236,9 @@ Experiments, proofs of concept, and agentic demos.
 
 ## Technical Reviews
 
-Technical reviewer for [Packt Publishing](https://www.packtpub.com) since 2021 — seven titles, two credited in print. Most recent: *Operational AI with Docker* (2026), *Microsoft Foundry in Action* (2026), *Claude Beyond the Prompt* (Oct 2026, credited), and *Loop Engineering with Claude Code* (2026).
+Technical reviewer for [Packt Publishing](https://www.packtpub.com) since 2021 — seven titles, two credited in print. Most recent: *Operational AI with Docker* (2026), *Microsoft Foundry in Action* (2026), *Claude Beyond the Prompt* (credited; Packt lists November 2026), and *Loop Engineering with Claude Code* (2026).
 
-Full list → [packt-technical-reviews](https://marcuspat.github.io/packt-technical-reviews/)
+Full list → [Packt technical reviews](https://www.marcuspatman.space/reviews/)
 
 ---
 
