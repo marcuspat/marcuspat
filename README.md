@@ -11,23 +11,23 @@ Technologies I’ve used in my projects
 [![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)](https://www.rust-lang.org)
 [![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org)
 [![Shell](https://img.shields.io/badge/-Shell-2b2b2b?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
+[![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-2b2b2b?style=flat-square&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io)
 [![AWS](assets/badge-aws.svg)](https://aws.amazon.com)
 [![GCP](https://img.shields.io/badge/-GCP-2b2b2b?style=flat-square&logo=googlecloud&logoColor=4285F4)](https://cloud.google.com)
 
 **Platform engineering**\
-[![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-2b2b2b?style=flat-square&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io)
 [![Terraform](https://img.shields.io/badge/-Terraform-2b2b2b?style=flat-square&logo=terraform&logoColor=7B42BC)](https://www.terraform.io)
-[![Ansible](https://img.shields.io/badge/-Ansible-2b2b2b?style=flat-square&logo=ansible&logoColor=EE0000)](https://www.ansible.com/)
-[![ArgoCD](https://img.shields.io/badge/-ArgoCD-2b2b2b?style=flat-square&logo=argo&logoColor=EF7B4D)](https://argo-cd.readthedocs.io)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2b2b2b?style=flat-square&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
+[![ArgoCD](https://img.shields.io/badge/-ArgoCD-2b2b2b?style=flat-square&logo=argo&logoColor=EF7B4D)](https://argo-cd.readthedocs.io)
+[![Ansible](https://img.shields.io/badge/-Ansible-2b2b2b?style=flat-square&logo=ansible&logoColor=EE0000)](https://www.ansible.com/)
 [![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-2b2b2b?style=flat-square&logo=gitlab&logoColor=FC6D26)](https://docs.gitlab.com/ci/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
 
-**AI, data & monitoring**\
+**AI & monitoring**\
 [![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)](https://claude.ai)
 [![ChatGPT](assets/badge-chatgpt.svg)](https://chatgpt.com/)
 [![MCP](https://img.shields.io/badge/-MCP-2b2b2b?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
 [![Grafana](https://img.shields.io/badge/-Grafana-2b2b2b?style=flat-square&logo=grafana&logoColor=F46800)](https://grafana.com/)
 
 ### [![Hire Me](assets/hire-me.svg)](https://marcuspatman.space)
