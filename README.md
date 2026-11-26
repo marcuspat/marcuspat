@@ -13,6 +13,16 @@
 [![AWS](https://img.shields.io/badge/-AWS-2b2b2b?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com)
 [![GCP](https://img.shields.io/badge/-GCP-2b2b2b?style=flat-square&logo=googlecloud&logoColor=4285F4)](https://cloud.google.com)
 [![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)](https://claude.ai)
+[![Ansible](https://img.shields.io/badge/-Ansible-2b2b2b?style=flat-square&logo=ansible&logoColor=EE0000)](https://www.ansible.com/)
+[![Grafana](https://img.shields.io/badge/-Grafana-2b2b2b?style=flat-square&logo=grafana&logoColor=F46800)](https://grafana.com/)
+[![Datadog](https://img.shields.io/badge/-Datadog-2b2b2b?style=flat-square&logo=datadog&logoColor=632CA6)](https://www.datadoghq.com/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2b2b2b?style=flat-square&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
+[![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-2b2b2b?style=flat-square&logo=gitlab&logoColor=FC6D26)](https://docs.gitlab.com/ci/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+
+### Hire Me
+
+[marcuspatman.space](https://marcuspatman.space) · [adventurewavelabs.space](https://www.adventurewavelabs.space) · [adventureonthewave.com](https://www.adventureonthewave.com) · [creandotumatrix.com](https://creandotumatrix.com)
 
 I build autonomous multi-agent systems that let one engineer ship like a team.
 
