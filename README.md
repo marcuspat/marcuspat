@@ -10,7 +10,6 @@ My projects include [Turbo Flow](https://www.turboflow.online/) and [Turbo Rig](
 
 Technologies I’ve used in my projects
 
-**Systems & cloud**\
 [![Linux](https://img.shields.io/badge/-Linux-2b2b2b?style=flat-square&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
 [![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)](https://www.rust-lang.org)
 [![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org)
@@ -20,7 +19,6 @@ Technologies I’ve used in my projects
 [![AWS](assets/badge-aws.svg)](https://aws.amazon.com)
 [![GCP](https://img.shields.io/badge/-GCP-2b2b2b?style=flat-square&logo=googlecloud&logoColor=4285F4)](https://cloud.google.com)
 
-**Platform engineering**\
 [![Terraform](https://img.shields.io/badge/-Terraform-2b2b2b?style=flat-square&logo=terraform&logoColor=7B42BC)](https://www.terraform.io)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2b2b2b?style=flat-square&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
 [![ArgoCD](https://img.shields.io/badge/-ArgoCD-2b2b2b?style=flat-square&logo=argo&logoColor=EF7B4D)](https://argo-cd.readthedocs.io)
@@ -28,7 +26,6 @@ Technologies I’ve used in my projects
 [![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-2b2b2b?style=flat-square&logo=gitlab&logoColor=FC6D26)](https://docs.gitlab.com/ci/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
 
-**AI & monitoring**\
 [![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)](https://claude.ai)
 [![ChatGPT](assets/badge-chatgpt.svg)](https://chatgpt.com/)
 [![MCP](https://img.shields.io/badge/-MCP-2b2b2b?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
