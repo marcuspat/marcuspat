@@ -4,6 +4,8 @@
 
 **Los Angeles, CA · Principal Agentic Engineer**
 
+Technologies I’ve used in my projects
+
 [![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)](https://www.rust-lang.org)
 [![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org)
 [![Shell](https://img.shields.io/badge/-Shell-2b2b2b?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
@@ -20,10 +22,10 @@
 [![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-2b2b2b?style=flat-square&logo=gitlab&logoColor=FC6D26)](https://docs.gitlab.com/ci/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
 [![Linux](https://img.shields.io/badge/-Linux-2b2b2b?style=flat-square&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
-[![OpenAI](https://img.shields.io/badge/-OpenAI-2b2b2b?style=flat-square)](https://openai.com/)
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-2b2b2b?style=flat-square)](https://chatgpt.com/)
 [![GLM](https://img.shields.io/badge/-GLM-2b2b2b?style=flat-square)](https://z.ai/)
-[![Grok](https://img.shields.io/badge/-Grok-2b2b2b?style=flat-square)](https://x.ai/grok)
-[![Azure](https://img.shields.io/badge/-Azure-2b2b2b?style=flat-square)](https://azure.microsoft.com/)
+[![Grok](assets/badge-grok.svg)](https://x.ai/grok)
+[![Azure](assets/badge-azure.svg)](https://azure.microsoft.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![Gemini CLI](https://img.shields.io/badge/-Gemini%20CLI-2b2b2b?style=flat-square&logo=googlegemini&logoColor=8E75B2)](https://github.com/google-gemini/gemini-cli)
 [![GitOps](https://img.shields.io/badge/-GitOps-2b2b2b?style=flat-square&logo=git&logoColor=F05032)](https://opengitops.dev/)
@@ -42,9 +44,10 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 `Autonomous Agent Orchestration` · `Multi-Agent Swarm Coordination` · `Cloud-Native Infrastructure` · `Rust Systems Tooling`
 
-[Entry points](#choose-your-entry-point) · [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production---real-estate-intelligence--ai-enhanced-functionality) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
+**Entry points** · [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production---real-estate-intelligence--ai-enhanced-functionality) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
-Ecosystem sites: [Adventure Wave Labs](https://www.adventurewavelabs.space) · [Turbo Flow](https://www.turboflow.online) · [Turbo Rig](https://turbo-rig.com) · [Agentic Platform Engineering](https://www.agenticplatformengineering.com) · [Adventure on the Wave](https://www.adventureonthewave.com) · [Creando Tu Matrix](https://creandotumatrix.com) · [Ancuria](https://ancuria.mx)
+**Ecosystem sites** · [Adventure Wave Labs](https://www.adventurewavelabs.space) · [Turbo Flow](https://www.turboflow.online) · [Turbo Rig](https://turbo-rig.com)\
+[Agentic Platform Engineering](https://www.agenticplatformengineering.com) · [Adventure on the Wave](https://www.adventureonthewave.com) · [Creando Tu Matrix](https://creandotumatrix.com) · [Ancuria](https://ancuria.mx)
 
 </div>
 
