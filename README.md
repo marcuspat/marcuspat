@@ -4,6 +4,10 @@
 
 **Los Angeles, CA · Principal Agentic Engineer**
 
+I build autonomous multi-agent systems that let one engineer ship like a team.
+
+My projects include [Turbo Flow](https://www.turboflow.online/) and [Turbo Rig](https://turbo-rig.com/), tools for reviewing AI-written code and governing coding agents.
+
 Technologies I’ve used in my projects
 
 **Systems & cloud**\
@@ -31,8 +35,6 @@ Technologies I’ve used in my projects
 [![Grafana](https://img.shields.io/badge/-Grafana-2b2b2b?style=flat-square&logo=grafana&logoColor=F46800)](https://grafana.com/)
 
 ### [![Hire Me](assets/hire-me.svg)](https://marcuspatman.space)
-
-I build autonomous multi-agent systems that let one engineer ship like a team.
 
 [![Stars](https://img.shields.io/github/stars/marcuspat?style=flat-square&color=2b2b2b&logo=github&logoColor=white&label=Stars)](https://github.com/marcuspat?tab=repositories&sort=stargazers)
 [![Crates](https://img.shields.io/badge/Crates.io-Rust_crates-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)](https://crates.io/users/marcuspat)
