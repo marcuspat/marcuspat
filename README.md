@@ -22,7 +22,7 @@ Technologies I’ve used in my projects
 [![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-2b2b2b?style=flat-square&logo=gitlab&logoColor=FC6D26)](https://docs.gitlab.com/ci/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
 [![Linux](https://img.shields.io/badge/-Linux-2b2b2b?style=flat-square&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
-[![ChatGPT](https://img.shields.io/badge/-ChatGPT-2b2b2b?style=flat-square)](https://chatgpt.com/)
+[![ChatGPT](assets/badge-chatgpt.svg)](https://chatgpt.com/)
 [![Grok](assets/badge-grok.svg)](https://x.ai/grok)
 [![Azure](assets/badge-azure.svg)](https://azure.microsoft.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/)
@@ -31,8 +31,6 @@ Technologies I’ve used in my projects
 [![MCP](https://img.shields.io/badge/-MCP-2b2b2b?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 
 ### [![Hire Me](assets/hire-me.svg)](https://marcuspatman.space)
-
-[marcuspatman.space](https://marcuspatman.space)
 
 I build autonomous multi-agent systems that let one engineer ship like a team.
 
