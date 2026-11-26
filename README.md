@@ -19,10 +19,19 @@
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2b2b2b?style=flat-square&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
 [![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-2b2b2b?style=flat-square&logo=gitlab&logoColor=FC6D26)](https://docs.gitlab.com/ci/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
+[![Linux](https://img.shields.io/badge/-Linux-2b2b2b?style=flat-square&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-2b2b2b?style=flat-square)](https://openai.com/)
+[![GLM](https://img.shields.io/badge/-GLM-2b2b2b?style=flat-square)](https://z.ai/)
+[![Grok](https://img.shields.io/badge/-Grok-2b2b2b?style=flat-square)](https://x.ai/grok)
+[![Azure](https://img.shields.io/badge/-Azure-2b2b2b?style=flat-square)](https://azure.microsoft.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Gemini CLI](https://img.shields.io/badge/-Gemini%20CLI-2b2b2b?style=flat-square&logo=googlegemini&logoColor=8E75B2)](https://github.com/google-gemini/gemini-cli)
+[![GitOps](https://img.shields.io/badge/-GitOps-2b2b2b?style=flat-square&logo=git&logoColor=F05032)](https://opengitops.dev/)
+[![MCP](https://img.shields.io/badge/-MCP-2b2b2b?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 
 ### Hire Me
 
-[marcuspatman.space](https://marcuspatman.space) · [adventurewavelabs.space](https://www.adventurewavelabs.space) · [adventureonthewave.com](https://www.adventureonthewave.com) · [creandotumatrix.com](https://creandotumatrix.com)
+[marcuspatman.space](https://marcuspatman.space) · [adventurewavelabs.space](https://www.adventurewavelabs.space)
 
 I build autonomous multi-agent systems that let one engineer ship like a team.
 
@@ -35,7 +44,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 [Entry points](#choose-your-entry-point) · [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production---real-estate-intelligence--ai-enhanced-functionality) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
-[Ecosystem sites](#ecosystem-sites): Adventure Wave Labs · Turbo Flow · Turbo Rig · Agentic Platform Engineering · Adventure on the Wave · Creando Tu Matrix · Ancuria
+Ecosystem sites: [Adventure Wave Labs](https://www.adventurewavelabs.space) · [Turbo Flow](https://www.turboflow.online) · [Turbo Rig](https://turbo-rig.com) · [Agentic Platform Engineering](https://www.agenticplatformengineering.com) · [Adventure on the Wave](https://www.adventureonthewave.com) · [Creando Tu Matrix](https://creandotumatrix.com) · [Ancuria](https://ancuria.mx)
 
 </div>
 
