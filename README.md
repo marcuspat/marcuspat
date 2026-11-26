@@ -22,7 +22,7 @@
 
 ### Hire Me
 
-[marcuspatman.space](https://marcuspatman.space) · [adventurewavelabs.space](https://www.adventurewavelabs.space) · [adventureonthewave.com](https://www.adventureonthewave.com) · [creandotumatrix.com](https://creandotumatrix.com)
+[marcuspatman.space](https://marcuspatman.space) · [adventurewavelabs.space](https://www.adventurewavelabs.space)
 
 I build autonomous multi-agent systems that let one engineer ship like a team.
 
@@ -35,7 +35,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 [Entry points](#choose-your-entry-point) · [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production---real-estate-intelligence--ai-enhanced-functionality) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
-[Ecosystem sites](#ecosystem-sites): Adventure Wave Labs · Turbo Flow · Turbo Rig · Agentic Platform Engineering · Adventure on the Wave · Creando Tu Matrix · Ancuria
+Ecosystem sites: [Adventure Wave Labs](https://www.adventurewavelabs.space) · [Turbo Flow](https://www.turboflow.online) · [Turbo Rig](https://turbo-rig.com) · [Agentic Platform Engineering](https://www.agenticplatformengineering.com) · [Adventure on the Wave](https://www.adventureonthewave.com) · [Creando Tu Matrix](https://creandotumatrix.com) · [Ancuria](https://ancuria.mx)
 
 </div>
 
