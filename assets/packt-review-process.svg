@@ -16,15 +16,15 @@
     .pulse { opacity: 0; }
 
     @media (prefers-reduced-motion: no-preference) {
-      .pulse { animation: handoff 3.4s .25s both; }
+      .pulse { animation: handoff 6s ease-in-out infinite; }
     }
 
     @keyframes handoff {
       0% { opacity: 0; transform: translateX(0); }
-      9%, 28% { opacity: 1; transform: translateX(0); }
-      43%, 55% { opacity: 1; transform: translateX(192px); }
-      76%, 86% { opacity: 1; transform: translateX(384px); }
-      100% { opacity: 0; transform: translateX(384px); }
+      8%, 20% { opacity: 1; transform: translateX(0); }
+      36%, 48% { opacity: 1; transform: translateX(192px); }
+      64%, 76% { opacity: 1; transform: translateX(384px); }
+      88%, 100% { opacity: 0; transform: translateX(384px); }
     }
   </style>
 
@@ -36,7 +36,7 @@
     <circle cx="492" cy="99" r="5" fill="#c4b5fd"/>
   </g>
   <g class="pulse">
-    <circle cx="108" cy="99" r="10" fill="#c4eaff" fill-opacity=".26"/>
+    <circle cx="108" cy="99" r="11" fill="#c4eaff" fill-opacity=".4"/>
     <circle cx="108" cy="99" r="4" fill="#f8fafc"/>
   </g>
 
