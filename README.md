@@ -2,11 +2,17 @@
 
 [![Banner](assets/banner.svg)](https://github.com/marcuspat)
 
-**Los Angeles, CA · Principal Agentic Engineer**
+**Los Angeles, CA · Principal Agentic & Platform Engineer**
 
 I build autonomous multi-agent systems that let one engineer ship like a team.
 
-My projects include [Turbo Flow](https://www.turboflow.online/) and [Turbo Rig](https://turbo-rig.com/), tools for reviewing AI-written code and governing coding agents.
+I build review gates for AI-written code and operate AI systems in production.
+
+[**Turbo Flow source**](https://github.com/marcuspat/turbo-flow) · I built this open-source toolkit to review AI-written code with a different model family.
+
+[**Turbo Rig case study**](https://www.adventureonthewave.com/case-studies/turbo-rig) · A measured week using my private-beta DevOps system for coding agents.
+
+[**Live Ancuria**](https://ancuria.com/) · I built and operate this bilingual real estate SaaS with AI-assisted listings and Mexican payments.
 
 Technologies I’ve used in my projects
 
@@ -64,7 +70,7 @@ One portfolio, many ways in — start with the problem you want to solve. Every 
 | Stop secrets before they ship | [**secret-scan**](https://github.com/adventurewave-labs/secret-scan) — 73 built-in rules, entropy and obfuscation detection, `cargo install secretscan` | [cargocrypt](https://github.com/marcuspat/cargocrypt) · [the Homebrew tap](https://github.com/marcuspat/homebrew-tap) |
 | Install the Rust tooling | [**cargo-forge**](https://github.com/marcuspat/cargo-forge) — `cargo install cargo-forge`, 7 typed templates | [all 7 crates](#published-rust-crates) · [netrain](https://github.com/marcuspat/netrain) · [rustops](https://github.com/marcuspat/rustops) |
 | See a real product in production | [**ancuria.com**](https://ancuria.com) — bilingual real-estate SaaS: Mexican payments end-to-end, AI listing drafts, RADAR quotes | [the technical deep-dive](https://ancuria-deep-dive.vercel.app) |
-| Judge the operation by its evidence | [**Packt technical reviews**](#technical-reviews), 2021–2026 — seven titles reviewed across Rust, Go, Python and AI tooling | [the lab](#lab--demos) — deployed demos, not screenshots |
+| Judge the operation by its evidence | [**Packt technical reviews**](#technical-reviews) since 2020 — seven titles reviewed across Rust, Go, Python and AI tooling | [the lab](#lab--demos) — deployed demos, not screenshots |
 | Hire me | [**adventureonthewave.com**](https://www.adventureonthewave.com) — paid agentic AI & platform engineering sessions | [LinkedIn](https://linkedin.com/in/marcuspatman) · [marcuspatman.space](https://marcuspatman.space) |
 
 `Gate` · `Map` · `Remember` · `Ship` · `Operate` — gate the diff (turbo-flow), map the codebase (codescope), remember across sessions (turbo-brain v2), ship the tool (7 crates), operate the product (Ancuria).
@@ -254,9 +260,15 @@ Experiments, proofs of concept, and agentic demos.
 
 ## Technical Reviews
 
-Technical reviewer for [Packt Publishing](https://www.packtpub.com) since 2021 — seven titles, two credited in print. Most recent: *Operational AI with Docker* (2026), *Microsoft Foundry in Action* (2026), *Claude Beyond the Prompt* (credited; Packt lists November 2026), and *Loop Engineering with Claude Code* (2026).
+I've reviewed seven titles for Packt Publishing since 2020, with two print credits. I read manuscripts, test code examples, and send technical feedback to editors.
 
-Full list → [Packt technical reviews](https://www.marcuspatman.space/reviews/)
+<p align="center">
+  <img src="assets/packt-review-process.svg" width="600" alt="Technical review process: read the manuscript, test code examples, and return review notes.">
+</p>
+
+**Latest published title** · [**Claude Beyond the Prompt**](https://www.amazon.com/Claude-Beyond-Prompt-reusable-workflows-ebook/dp/B0H7HXWTLJ) · November 23, 2026
+
+[Full Packt review record](https://www.marcuspatman.space/reviews/)
 
 ---
 

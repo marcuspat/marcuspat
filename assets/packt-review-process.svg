@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="148" viewBox="0 0 600 148" role="img" aria-labelledby="title description">
+  <title id="title">Packt technical review process</title>
+  <desc id="description">Read the manuscript, test code examples, and return review notes.</desc>
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1">
+      <stop stop-color="#101b32"/>
+      <stop offset="1" stop-color="#0c101d"/>
+    </linearGradient>
+    <linearGradient id="route">
+      <stop stop-color="#67e8f9"/>
+      <stop offset=".5" stop-color="#93c5fd"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .pulse { opacity: 0; }
+
+    @media (prefers-reduced-motion: no-preference) {
+      .pulse { animation: handoff 3.4s .25s both; }
+    }
+
+    @keyframes handoff {
+      0% { opacity: 0; transform: translateX(0); }
+      9%, 28% { opacity: 1; transform: translateX(0); }
+      43%, 55% { opacity: 1; transform: translateX(192px); }
+      76%, 86% { opacity: 1; transform: translateX(384px); }
+      100% { opacity: 0; transform: translateX(384px); }
+    }
+  </style>
+
+  <rect x=".5" y=".5" width="599" height="147" rx="15" fill="url(#panel)" stroke="#343e56"/>
+  <path d="M108 99h384" fill="none" stroke="url(#route)" stroke-width="2" stroke-opacity=".48"/>
+  <g stroke="#0e1424" stroke-width="2">
+    <circle cx="108" cy="99" r="5" fill="#67e8f9"/>
+    <circle cx="300" cy="99" r="5" fill="#93c5fd"/>
+    <circle cx="492" cy="99" r="5" fill="#c4b5fd"/>
+  </g>
+  <g class="pulse">
+    <circle cx="108" cy="99" r="10" fill="#c4eaff" fill-opacity=".26"/>
+    <circle cx="108" cy="99" r="4" fill="#f8fafc"/>
+  </g>
+
+  <g fill="#121f34" stroke-width="1.25">
+    <rect x="85" y="19" width="46" height="36" rx="9" stroke="#67e8f9"/>
+    <rect x="277" y="19" width="46" height="36" rx="9" stroke="#93c5fd"/>
+    <rect x="469" y="19" width="46" height="36" rx="9" stroke="#c4b5fd"/>
+  </g>
+  <g fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M101 28h9l5 5v13h-14z M110 28v5h5 M104 37h8 M104 41h6" stroke="#67e8f9"/>
+    <path d="m294 32-5 5 5 5m6 0h8" stroke="#93c5fd"/>
+    <path d="M483 29h18v12h-9l-5 4v-4h-4z M487 33h10m-10 4h7" stroke="#c4b5fd"/>
+  </g>
+  <g fill="#f1f5ff" text-anchor="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="650">
+    <text x="108" y="79">Read manuscript</text>
+    <text x="300" y="79">Test code</text>
+    <text x="492" y="79">Return notes</text>
+  </g>
+  <text x="300" y="128" fill="#b6c4db" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15">Packt Publishing · Technical review</text>
+</svg>
