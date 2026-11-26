@@ -6,29 +6,29 @@
 
 Technologies I’ve used in my projects
 
+**Systems & cloud**\
+[![Linux](https://img.shields.io/badge/-Linux-2b2b2b?style=flat-square&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
 [![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=dea584)](https://www.rust-lang.org)
 [![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)](https://www.python.org)
 [![Shell](https://img.shields.io/badge/-Shell-2b2b2b?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
+[![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-2b2b2b?style=flat-square&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io)
-[![Terraform](https://img.shields.io/badge/-Terraform-2b2b2b?style=flat-square&logo=terraform&logoColor=7B42BC)](https://www.terraform.io)
-[![ArgoCD](https://img.shields.io/badge/-ArgoCD-2b2b2b?style=flat-square&logo=argo&logoColor=EF7B4D)](https://argo-cd.readthedocs.io)
 [![AWS](assets/badge-aws.svg)](https://aws.amazon.com)
 [![GCP](https://img.shields.io/badge/-GCP-2b2b2b?style=flat-square&logo=googlecloud&logoColor=4285F4)](https://cloud.google.com)
-[![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)](https://claude.ai)
-[![Ansible](https://img.shields.io/badge/-Ansible-2b2b2b?style=flat-square&logo=ansible&logoColor=EE0000)](https://www.ansible.com/)
-[![Grafana](https://img.shields.io/badge/-Grafana-2b2b2b?style=flat-square&logo=grafana&logoColor=F46800)](https://grafana.com/)
-[![Datadog](https://img.shields.io/badge/-Datadog-2b2b2b?style=flat-square&logo=datadog&logoColor=632CA6)](https://www.datadoghq.com/)
+
+**Platform engineering**\
+[![Terraform](https://img.shields.io/badge/-Terraform-2b2b2b?style=flat-square&logo=terraform&logoColor=7B42BC)](https://www.terraform.io)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2b2b2b?style=flat-square&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
+[![ArgoCD](https://img.shields.io/badge/-ArgoCD-2b2b2b?style=flat-square&logo=argo&logoColor=EF7B4D)](https://argo-cd.readthedocs.io)
+[![Ansible](https://img.shields.io/badge/-Ansible-2b2b2b?style=flat-square&logo=ansible&logoColor=EE0000)](https://www.ansible.com/)
 [![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-2b2b2b?style=flat-square&logo=gitlab&logoColor=FC6D26)](https://docs.gitlab.com/ci/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
-[![Linux](https://img.shields.io/badge/-Linux-2b2b2b?style=flat-square&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
+
+**AI & monitoring**\
+[![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)](https://claude.ai)
 [![ChatGPT](assets/badge-chatgpt.svg)](https://chatgpt.com/)
-[![Grok](assets/badge-grok.svg)](https://x.ai/grok)
-[![Azure](assets/badge-azure.svg)](https://azure.microsoft.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/)
-[![Gemini CLI](https://img.shields.io/badge/-Gemini%20CLI-2b2b2b?style=flat-square&logo=googlegemini&logoColor=8E75B2)](https://github.com/google-gemini/gemini-cli)
-[![GitOps](https://img.shields.io/badge/-GitOps-2b2b2b?style=flat-square&logo=git&logoColor=F05032)](https://opengitops.dev/)
 [![MCP](https://img.shields.io/badge/-MCP-2b2b2b?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
+[![Grafana](https://img.shields.io/badge/-Grafana-2b2b2b?style=flat-square&logo=grafana&logoColor=F46800)](https://grafana.com/)
 
 ### [![Hire Me](assets/hire-me.svg)](https://marcuspatman.space)
 
@@ -41,7 +41,7 @@ I build autonomous multi-agent systems that let one engineer ship like a team.
 
 `Autonomous Agent Orchestration` · `Multi-Agent Swarm Coordination` · `Cloud-Native Infrastructure` · `Rust Systems Tooling`
 
-**Entry points** · [Turbo Rig](#the-turbo-rig-stack) · [Turbo-Flow Stack](#the-turbo-flow-stack) · [SaaS](#saas-in-production---real-estate-intelligence--ai-enhanced-functionality) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
+**Entry points** · [Turbo Rig](#the-turbo-rig-stack--a-devops-tool-for-ai-coding-agents) · [Turbo-Flow Stack](#the-turbo-flow-stack--a-developer-tool-for-ai-written-code) · [SaaS](#saas-in-production---real-estate-intelligence--ai-enhanced-functionality) · [Developer Tooling](#developer-tooling) · [Rust Crates](#published-rust-crates) · [Technical Reviews](#technical-reviews) · [Organizations](#organizations)
 
 **Ecosystem sites** · [Adventure Wave Labs](https://www.adventurewavelabs.space) · [Turbo Flow](https://www.turboflow.online) · [Turbo Rig](https://turbo-rig.com)\
 [Agentic Platform Engineering](https://www.agenticplatformengineering.com) · [Adventure on the Wave](https://www.adventureonthewave.com) · [Creando Tu Matrix](https://creandotumatrix.com) · [Ancuria](https://ancuria.mx)
