@@ -6,8 +6,6 @@
 
 I build autonomous multi-agent systems that let one engineer ship like a team.
 
-I build review gates for AI-written code and operate AI systems in production.
-
 [**Turbo Flow source**](https://github.com/marcuspat/turbo-flow) · I built this open-source toolkit to review AI-written code with a different model family.
 
 [**Turbo Rig case study**](https://www.adventureonthewave.com/case-studies/turbo-rig) · A measured week using my private-beta DevOps system for coding agents.
