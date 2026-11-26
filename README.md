@@ -12,7 +12,7 @@ Technologies I’ve used in my projects
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-2b2b2b?style=flat-square&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io)
 [![Terraform](https://img.shields.io/badge/-Terraform-2b2b2b?style=flat-square&logo=terraform&logoColor=7B42BC)](https://www.terraform.io)
 [![ArgoCD](https://img.shields.io/badge/-ArgoCD-2b2b2b?style=flat-square&logo=argo&logoColor=EF7B4D)](https://argo-cd.readthedocs.io)
-[![AWS](https://img.shields.io/badge/-AWS-2b2b2b?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com)
+[![AWS](assets/badge-aws.svg)](https://aws.amazon.com)
 [![GCP](https://img.shields.io/badge/-GCP-2b2b2b?style=flat-square&logo=googlecloud&logoColor=4285F4)](https://cloud.google.com)
 [![Claude](https://img.shields.io/badge/-Claude-2b2b2b?style=flat-square&logo=anthropic&logoColor=d4a27f)](https://claude.ai)
 [![Ansible](https://img.shields.io/badge/-Ansible-2b2b2b?style=flat-square&logo=ansible&logoColor=EE0000)](https://www.ansible.com/)
@@ -23,7 +23,6 @@ Technologies I’ve used in my projects
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
 [![Linux](https://img.shields.io/badge/-Linux-2b2b2b?style=flat-square&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
 [![ChatGPT](https://img.shields.io/badge/-ChatGPT-2b2b2b?style=flat-square)](https://chatgpt.com/)
-[![GLM](https://img.shields.io/badge/-GLM-2b2b2b?style=flat-square)](https://z.ai/)
 [![Grok](assets/badge-grok.svg)](https://x.ai/grok)
 [![Azure](assets/badge-azure.svg)](https://azure.microsoft.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED)](https://www.docker.com/)
@@ -31,9 +30,9 @@ Technologies I’ve used in my projects
 [![GitOps](https://img.shields.io/badge/-GitOps-2b2b2b?style=flat-square&logo=git&logoColor=F05032)](https://opengitops.dev/)
 [![MCP](https://img.shields.io/badge/-MCP-2b2b2b?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 
-### Hire Me
+### [![Hire Me](assets/hire-me.svg)](https://marcuspatman.space)
 
-[marcuspatman.space](https://marcuspatman.space) · [adventurewavelabs.space](https://www.adventurewavelabs.space)
+[marcuspatman.space](https://marcuspatman.space)
 
 I build autonomous multi-agent systems that let one engineer ship like a team.
 
